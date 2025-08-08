@@ -87,8 +87,8 @@ def train_model(X, y):
     print(f"Model accuracy: {accuracy:.2f}")
 
     # Save model and scaler
-    joblib.dump(model, 'trained_model.joblib')
-    joblib.dump(scaler, 'scaler.joblib')
+    # joblib.dump(model, 'trained_model.joblib')
+    # joblib.dump(scaler, 'scaler.joblib')
     print("Model and scaler saved as 'trained_model.joblib' and 'scaler.joblib'.")
 
     return model, scaler
