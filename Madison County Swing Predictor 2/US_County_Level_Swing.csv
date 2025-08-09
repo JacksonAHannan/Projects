@@ -1,0 +1,3105 @@
+state_name_2020,county_name_2020,swing
+Alabama,Autauga County,-0.041829398272210105
+Alabama,Baldwin County,-0.01625317584571756
+Alabama,Barbour County,0.010245892696972292
+Alabama,Bibb County,0.0065167421642036705
+Alabama,Blount County,-0.05024701865650899
+Alabama,Bullock County,-0.02016046603421323
+Alabama,Butler County,0.009126394567796986
+Alabama,Calhoun County,-0.0029127474975189083
+Alabama,Chambers County,0.015833505794609598
+Alabama,Cherokee County,-0.03355234984107408
+Alabama,Chilton County,-0.013341224672158425
+Alabama,Choctaw County,0.021924505214870188
+Alabama,Clarke County,-0.009248584058056605
+Alabama,Clay County,0.015848139614503542
+Alabama,Cleburne County,-0.028389716218671424
+Alabama,Coffee County,-0.012187004765407738
+Alabama,Colbert County,0.014495312272854888
+Alabama,Conecuh County,0.005200904291591493
+Alabama,Coosa County,0.037817792739879785
+Alabama,Covington County,-0.01695243873772706
+Alabama,Crenshaw County,0.008199174205692772
+Alabama,Cullman County,-0.029431540335620177
+Alabama,Dale County,-5.0091413691166764e-05
+Alabama,Dallas County,-0.009967286443866907
+Alabama,DeKalb County,-0.018799942493574473
+Alabama,Elmore County,-0.022303557366281423
+Alabama,Escambia County,0.029088103657018416
+Alabama,Etowah County,-0.0056215735876219974
+Alabama,Fayette County,-0.014061442435955362
+Alabama,Franklin County,0.01323000712044059
+Alabama,Geneva County,-0.028168104523112525
+Alabama,Greene County,0.012634137318155603
+Alabama,Hale County,0.060119725203654606
+Alabama,Henry County,0.017412037849699746
+Alabama,Houston County,-0.009261472130377923
+Alabama,Jackson County,-0.020850452914420614
+Alabama,Jefferson County,-0.03334122525663791
+Alabama,Lamar County,-0.022475836590871767
+Alabama,Lauderdale County,0.007980851739763706
+Alabama,Lawrence County,0.01624503726304366
+Alabama,Lee County,0.01678164972691859
+Alabama,Limestone County,-0.04733289063980811
+Alabama,Lowndes County,0.02527489680868039
+Alabama,Macon County,0.014884490833046493
+Alabama,Madison County,-0.050285111160649695
+Alabama,Marengo County,-0.009464505619897805
+Alabama,Marion County,-0.021430448506320643
+Alabama,Marshall County,-0.03046487771228429
+Alabama,Mobile County,-0.014797121566728008
+Alabama,Monroe County,0.012347187565954182
+Alabama,Montgomery County,-0.05285201704853748
+Alabama,Morgan County,-0.026657815249998995
+Alabama,Perry County,-0.0057885526417010835
+Alabama,Pickens County,0.010427203019145709
+Alabama,Pike County,0.017397915791039803
+Alabama,Randolph County,0.0015806272923156173
+Alabama,Russell County,-0.013082519718810304
+Alabama,St. Clair County,-0.05857493723884749
+Alabama,Shelby County,-0.05589625927309111
+Alabama,Sumter County,0.012301739719032034
+Alabama,Talladega County,0.022183829511636888
+Alabama,Tallapoosa County,0.0018384849928064773
+Alabama,Tuscaloosa County,-0.00435625644232529
+Alabama,Walker County,-0.02138947313877798
+Alabama,Washington County,0.008566314607854342
+Alabama,Wilcox County,6.259218847504133e-06
+Alabama,Winston County,-0.04128895314247133
+Arizona,Apache County,0.0866474782763336
+Arizona,Cochise County,-0.024451035041233693
+Arizona,Coconino County,-0.018593225435169086
+Arizona,Gila County,-0.025197202578308098
+Arizona,Graham County,-0.02672432503432909
+Arizona,Greenlee County,0.009704742989492421
+Arizona,La Paz County,-0.006305365541365626
+Arizona,Maricopa County,-0.0037820983676477016
+Arizona,Mohave County,-0.015568936524769927
+Arizona,Navajo County,0.029155572251322787
+Arizona,Pima County,-0.02526224938967181
+Arizona,Pinal County,-0.012375053051182111
+Arizona,Santa Cruz County,0.10809777807130741
+Arizona,Yavapai County,-0.014128994638327785
+Arizona,Yuma County,0.08191528960786099
+Arkansas,Arkansas County,-0.014183038721255314
+Arkansas,Ashley County,-0.012751212995659955
+Arkansas,Baxter County,-0.025117649356124205
+Arkansas,Benton County,-0.055238952210830694
+Arkansas,Boone County,-0.02958680404434383
+Arkansas,Bradley County,0.022967837044631567
+Arkansas,Calhoun County,0.028379601369839802
+Arkansas,Carroll County,-0.03165206158414319
+Arkansas,Chicot County,0.023872521863532697
+Arkansas,Clark County,0.003929944610858188
+Arkansas,Clay County,-0.04687013727099504
+Arkansas,Cleburne County,-0.0387952947832641
+Arkansas,Cleveland County,-0.00019755191533626926
+Arkansas,Columbia County,-0.00677812615603246
+Arkansas,Conway County,-0.011685590250881395
+Arkansas,Craighead County,-0.04014211559091052
+Arkansas,Crawford County,-0.0453102838408494
+Arkansas,Crittenden County,-0.0109908798157098
+Arkansas,Cross County,-0.041489830997213484
+Arkansas,Dallas County,0.003646786154692494
+Arkansas,Desha County,0.010063045181023203
+Arkansas,Drew County,-0.000514588853219089
+Arkansas,Faulkner County,-0.032488605917046276
+Arkansas,Franklin County,-0.05035510845324481
+Arkansas,Fulton County,-0.010538307849138284
+Arkansas,Garland County,-0.037804041715094105
+Arkansas,Grant County,-0.04563965532994846
+Arkansas,Greene County,-0.045406295610347425
+Arkansas,Hempstead County,-0.003989847810621505
+Arkansas,Hot Spring County,-0.026078680272086208
+Arkansas,Howard County,-0.012918443921315692
+Arkansas,Independence County,-0.04744270440157056
+Arkansas,Izard County,-0.022668558800972016
+Arkansas,Jackson County,-0.010912399233221237
+Arkansas,Jefferson County,-0.043943256748375015
+Arkansas,Johnson County,-0.03620577939876274
+Arkansas,Lafayette County,-0.019837142970615507
+Arkansas,Lawrence County,-0.01607414966485249
+Arkansas,Lee County,-0.04761130358319061
+Arkansas,Lincoln County,0.002556419994334813
+Arkansas,Little River County,0.001789802058994483
+Arkansas,Logan County,-0.03383987228093305
+Arkansas,Lonoke County,-0.051933125498456356
+Arkansas,Madison County,-0.03167628003021633
+Arkansas,Marion County,-0.02476077603268073
+Arkansas,Miller County,-0.013880816537450769
+Arkansas,Mississippi County,0.03398467054451779
+Arkansas,Monroe County,-0.04431417862622089
+Arkansas,Montgomery County,-0.026347917559277734
+Arkansas,Nevada County,0.02146035427602505
+Arkansas,Newton County,-0.03981374378091501
+Arkansas,Ouachita County,-0.0047161517508002015
+Arkansas,Perry County,-0.018528989143548558
+Arkansas,Phillips County,-3.777710101410259e-05
+Arkansas,Pike County,-0.006436344233989921
+Arkansas,Poinsett County,-0.022806745947739626
+Arkansas,Polk County,-0.03738427143190198
+Arkansas,Pope County,-0.042067927456984344
+Arkansas,Prairie County,-0.012912082001645231
+Arkansas,Pulaski County,-0.056565216748854896
+Arkansas,Randolph County,-0.030867308571924268
+Arkansas,St. Francis County,-0.016828334766440106
+Arkansas,Saline County,-0.07145732743626854
+Arkansas,Scott County,-0.023286397108753742
+Arkansas,Searcy County,-0.029215251846512025
+Arkansas,Sebastian County,-0.039399990385554085
+Arkansas,Sevier County,0.02480932686513676
+Arkansas,Sharp County,-0.03358497230231411
+Arkansas,Stone County,-0.022294199200855458
+Arkansas,Union County,-0.019968496045389195
+Arkansas,Van Buren County,-0.027487945736633324
+Arkansas,Washington County,-0.032905435976483606
+Arkansas,White County,-0.03778559593197611
+Arkansas,Woodruff County,-0.013012419134765807
+Arkansas,Yell County,-0.0377975222670745
+California,Alameda County,0.029216966464625294
+California,Alpine County,-0.06709055532840208
+California,Amador County,-0.025640011362444398
+California,Butte County,-0.012557253919295401
+California,Calaveras County,-0.017525850420630817
+California,Colusa County,0.05602377001243969
+California,Contra Costa County,0.013502692901271096
+California,Del Norte County,-0.0521307163171201
+California,El Dorado County,-0.028556601470158594
+California,Fresno County,0.0617460754156552
+California,Glenn County,0.016880739760714913
+California,Humboldt County,-0.01026436737850378
+California,Imperial County,0.19202789671641518
+California,Inyo County,-0.0290920689867796
+California,Kern County,0.04820349679694419
+California,Kings County,0.04732863382543369
+California,Lake County,0.016442235921740295
+California,Lassen County,-0.035233350482744286
+California,Los Angeles County,0.052187856214786166
+California,Madera County,0.0320292382677016
+California,Marin County,-0.03402712509620126
+California,Mariposa County,-0.030883631355310803
+California,Mendocino County,0.029335300174998635
+California,Merced County,0.0891456926299842
+California,Modoc County,-0.044856896490536036
+California,Mono County,-0.040253340539622096
+California,Monterey County,0.05365751088624632
+California,Napa County,-0.005016767771061692
+California,Nevada County,-0.03484956765475419
+California,Orange County,0.0034275864492391978
+California,Placer County,-0.0417535864168882
+California,Plumas County,-0.058409921764483896
+California,Riverside County,0.03179981524939719
+California,Sacramento County,-0.004953954520693887
+California,San Benito County,0.05804416370060739
+California,San Bernardino County,0.0675549112544388
+California,San Diego County,-0.0006828704035543032
+California,San Francisco County,0.017114532142401273
+California,San Joaquin County,0.08732184128739709
+California,San Luis Obispo County,-0.0383330974554347
+California,San Mateo County,0.013234535665095637
+California,Santa Barbara County,-0.006508509787818695
+California,Santa Clara County,0.01431693823070912
+California,Santa Cruz County,-0.0017953454653809042
+California,Shasta County,-0.027262977979604697
+California,Sierra County,-0.031565971713193614
+California,Siskiyou County,-0.025767935482423593
+California,Solano County,0.012489775176341228
+California,Sonoma County,-0.007595293167738049
+California,Stanislaus County,0.0570752408087445
+California,Sutter County,0.08936380103549238
+California,Tehama County,0.0013273023209987023
+California,Trinity County,-0.020360449668256703
+California,Tulare County,0.06853734766111469
+California,Tuolumne County,-0.029544656819645992
+California,Ventura County,-0.00040743942310278447
+California,Yolo County,-0.008472712506448266
+California,Yuba County,-0.018536854183007323
+Colorado,Adams County,0.012285297429533007
+Colorado,Alamosa County,0.0408123211392665
+Colorado,Arapahoe County,-0.014995818974726405
+Colorado,Archuleta County,-0.07862141819134019
+Colorado,Baca County,-0.05293517296588052
+Colorado,Bent County,-0.010685915999054274
+Colorado,Boulder County,-0.05243194917574728
+Colorado,Broomfield County,-0.0715537839310626
+Colorado,Chaffee County,-0.1278367861693482
+Colorado,Cheyenne County,-0.04005367332012871
+Colorado,Clear Creek County,-0.09646159346224228
+Colorado,Conejos County,0.04225378889024768
+Colorado,Costilla County,0.06517391249031293
+Colorado,Crowley County,-0.06276052915765368
+Colorado,Custer County,-0.0744466283178356
+Colorado,Delta County,-0.0765904386913
+Colorado,Denver County,-0.008245031509132084
+Colorado,Dolores County,-0.04736990943487368
+Colorado,Douglas County,-0.062229085045280796
+Colorado,Eagle County,-0.006418408176269097
+Colorado,Elbert County,-0.05140708808767408
+Colorado,El Paso County,-0.0702791697549581
+Colorado,Fremont County,-0.07316973215417782
+Colorado,Garfield County,-0.0583308183245409
+Colorado,Gilpin County,-0.0943795048415746
+Colorado,Grand County,-0.0699321138251809
+Colorado,Gunnison County,-0.04917163357642362
+Colorado,Hinsdale County,-0.0916986907516168
+Colorado,Huerfano County,-0.003372624559930301
+Colorado,Jackson County,-0.08526555286126752
+Colorado,Jefferson County,-0.0696116736021701
+Colorado,Kiowa County,-0.08835274505911245
+Colorado,Kit Carson County,-0.018233418818704494
+Colorado,Lake County,-0.021066197848143398
+Colorado,La Plata County,-0.0698011344475524
+Colorado,Larimer County,-0.0820775596508112
+Colorado,Las Animas County,-0.02424443643121639
+Colorado,Lincoln County,-0.04357739837269431
+Colorado,Logan County,-0.05112952052287362
+Colorado,Mesa County,-0.09714085008542239
+Colorado,Mineral County,-0.07309829651864821
+Colorado,Moffat County,-0.06793751635086914
+Colorado,Montezuma County,-0.07423967382449359
+Colorado,Montrose County,-0.09889946179249981
+Colorado,Morgan County,0.009520897966578679
+Colorado,Otero County,-0.0210442449639614
+Colorado,Ouray County,-0.07643253616263881
+Colorado,Park County,-0.06531358630793849
+Colorado,Phillips County,-0.02573405862737793
+Colorado,Pitkin County,0.016504780389797247
+Colorado,Prowers County,-0.012338753940305092
+Colorado,Pueblo County,0.008046090722032898
+Colorado,Rio Blanco County,-0.10059362321622217
+Colorado,Rio Grande County,-0.013173056320189919
+Colorado,Routt County,-0.0618848357513761
+Colorado,Saguache County,0.0412283328407468
+Colorado,San Juan County,-0.13145781620717312
+Colorado,San Miguel County,-0.013102697449722644
+Colorado,Sedgwick County,-0.06415095612283633
+Colorado,Summit County,-0.036433100630413495
+Colorado,Teller County,-0.05771536245691217
+Colorado,Washington County,-0.04953342362604224
+Colorado,Weld County,-0.030873016590055313
+Colorado,Yuma County,-0.07346122781886494
+Delaware,Kent County,-0.039698724535934704
+Delaware,New Castle County,-0.015119419067445128
+Delaware,Sussex County,-0.0632134808256893
+District of Columbia,District of Columbia,-0.05356159210784611
+Florida,Alachua County,0.0014717381427272747
+Florida,Baker County,-0.03200325007210231
+Florida,Bay County,-0.022091274587870635
+Florida,Bradford County,-0.014308091750571517
+Florida,Brevard County,-0.016537259778350605
+Florida,Broward County,0.06789257518283051
+Florida,Calhoun County,-0.007186276435757144
+Florida,Charlotte County,0.013244790837458498
+Florida,Citrus County,-0.011968642365246862
+Florida,Clay County,-0.03886046513394659
+Florida,Collier County,0.023292453657042106
+Florida,Columbia County,-0.010159143886082855
+Florida,DeSoto County,0.04880803336757872
+Florida,Dixie County,-0.01676144866212842
+Florida,Duval County,-0.007578358971079696
+Florida,Escambia County,-0.016084518580205293
+Florida,Flagler County,0.014507374712248222
+Florida,Franklin County,0.004702444862550004
+Florida,Gadsden County,-0.0015215752147356154
+Florida,Gilchrist County,-0.019810894940775536
+Florida,Glades County,0.010695967395885964
+Florida,Gulf County,-0.024068225011967648
+Florida,Hamilton County,0.012132090210863311
+Florida,Hardee County,0.05198485486752724
+Florida,Hendry County,0.09267561580103079
+Florida,Hernando County,0.008164868353438715
+Florida,Highlands County,0.003393798888333077
+Florida,Hillsborough County,0.03897190394244
+Florida,Holmes County,-0.04754994077115632
+Florida,Indian River County,-0.00258075532225302
+Florida,Jackson County,0.011322897834321555
+Florida,Jefferson County,0.05680849948858478
+Florida,Lafayette County,-0.01597226472320651
+Florida,Lake County,-0.014097932956009002
+Florida,Lee County,0.031658128727262924
+Florida,Leon County,0.004705427556429276
+Florida,Levy County,-0.013396640191427722
+Florida,Liberty County,0.003472438643369491
+Florida,Madison County,0.03327605682150481
+Florida,Manatee County,0.014240479750209006
+Florida,Marion County,-0.003188431489497212
+Florida,Martin County,0.004857017635348682
+Florida,Miami-Dade County,0.1275712424115411
+Florida,Monroe County,0.043665729055552105
+Florida,Nassau County,-0.05013715081293424
+Florida,Okaloosa County,-0.027334762651454514
+Florida,Okeechobee County,0.03412503589611904
+Florida,Orange County,0.034786333158565275
+Florida,Osceola County,0.0922389391764705
+Florida,Palm Beach County,0.0598570438778272
+Florida,Pasco County,-0.008668096651145929
+Florida,Pinellas County,-0.0059233824413907
+Florida,Polk County,0.00210992225728851
+Florida,Putnam County,0.005785938212177821
+Florida,St. Johns County,-0.01356760584988348
+Florida,St. Lucie County,0.01457172245766239
+Florida,Santa Rosa County,-0.016388365263653726
+Florida,Sarasota County,0.017089698105039103
+Florida,Seminole County,0.003084686527683095
+Florida,Sumter County,-0.04555020618113098
+Florida,Suwannee County,-0.01715218955857306
+Florida,Taylor County,-0.0022816247017030666
+Florida,Union County,-0.031165466876517278
+Florida,Volusia County,0.016521745671817994
+Florida,Wakulla County,-0.025724820420943317
+Florida,Walton County,0.0006386319217850933
+Florida,Washington County,-0.017165789726578284
+Georgia,Appling County,-0.006768702647846514
+Georgia,Atkinson County,0.011835186144684262
+Georgia,Bacon County,-0.05544024314697321
+Georgia,Baker County,-0.019444560851612114
+Georgia,Baldwin County,-0.025367033296862303
+Georgia,Banks County,-0.05856229100725924
+Georgia,Barrow County,-0.086862944858346
+Georgia,Bartow County,-0.05766061772558123
+Georgia,Ben Hill County,-0.0018700061101737941
+Georgia,Berrien County,-0.027448220312415617
+Georgia,Bibb County,-0.04638044989052359
+Georgia,Bleckley County,-0.03534730504422473
+Georgia,Brantley County,-0.04803197532924969
+Georgia,Brooks County,0.0004115961964056003
+Georgia,Bryan County,-0.04859302274340954
+Georgia,Bulloch County,-0.0076382857968209095
+Georgia,Burke County,0.014945010995447788
+Georgia,Butts County,-0.044736930959355714
+Georgia,Calhoun County,-0.028766172305214013
+Georgia,Camden County,-0.011151284560636077
+Georgia,Candler County,-0.006026527429482398
+Georgia,Carroll County,-0.038678744987136526
+Georgia,Catoosa County,-0.06487630558570329
+Georgia,Charlton County,-0.005167448610188086
+Georgia,Chatham County,-0.053048880845614016
+Georgia,Chattahoochee County,-0.030338535010389106
+Georgia,Chattooga County,-0.036331761814070884
+Georgia,Cherokee County,-0.06257497380120108
+Georgia,Clarke County,-0.022478989018950513
+Georgia,Clay County,-0.027976680487867403
+Georgia,Clayton County,-0.043367091913885936
+Georgia,Clinch County,-0.020631017370096427
+Georgia,Cobb County,-0.0659269599276393
+Georgia,Coffee County,-0.007823006416769196
+Georgia,Colquitt County,-0.030153810614468424
+Georgia,Columbia County,-0.06187033674986381
+Georgia,Cook County,0.00035581652521776697
+Georgia,Coweta County,-0.07713252118240488
+Georgia,Crawford County,-0.022971457540959306
+Georgia,Crisp County,-0.05025678952799181
+Georgia,Dade County,-0.04077675312645562
+Georgia,Dawson County,-0.08638854243847888
+Georgia,Decatur County,0.009556224729112606
+Georgia,DeKalb County,-0.03421026656112641
+Georgia,Dodge County,-0.01607440920205444
+Georgia,Dooly County,-0.0437230852337636
+Georgia,Dougherty County,-0.07148483118804067
+Georgia,Douglas County,-0.12372123866477702
+Georgia,Early County,0.004264191010949395
+Georgia,Echols County,0.004461177955646101
+Georgia,Effingham County,-0.06479595980572017
+Georgia,Elbert County,0.0084779061875781
+Georgia,Emanuel County,-0.00477669800230901
+Georgia,Evans County,-0.005236423388973566
+Georgia,Fannin County,-0.059162172264964286
+Georgia,Fayette County,-0.0968212566683347
+Georgia,Floyd County,-0.05181425069930329
+Georgia,Forsyth County,-0.06118832521226558
+Georgia,Franklin County,-0.029005695070795257
+Georgia,Fulton County,-0.045108356282252404
+Georgia,Gilmer County,-0.06994753382607394
+Georgia,Glascock County,-0.01828073198246355
+Georgia,Glynn County,-0.032320784745496406
+Georgia,Gordon County,-0.0510223049910104
+Georgia,Grady County,0.002719554583447581
+Georgia,Greene County,-0.0358818590446493
+Georgia,Gwinnett County,-0.04294121216615479
+Georgia,Habersham County,-0.0514735003445313
+Georgia,Hall County,-0.055015507160974364
+Georgia,Hancock County,0.024547637558811175
+Georgia,Haralson County,-0.056234248175354884
+Georgia,Harris County,-0.0425958424639829
+Georgia,Hart County,-0.007955322637870244
+Georgia,Heard County,-0.024645222019388402
+Georgia,Henry County,-0.15224272503162653
+Georgia,Houston County,-0.0720240630707793
+Georgia,Irwin County,-0.028328075003648923
+Georgia,Jackson County,-0.08974812770868773
+Georgia,Jasper County,-0.007983496827442205
+Georgia,Jeff Davis County,-0.012744040434219561
+Georgia,Jefferson County,0.0199983563486828
+Georgia,Jenkins County,-0.014954518684898221
+Georgia,Johnson County,0.00613347108897544
+Georgia,Jones County,-0.018774813787843736
+Georgia,Lamar County,-0.011594029184429033
+Georgia,Lanier County,-0.013734678062705286
+Georgia,Laurens County,-0.015620625982948111
+Georgia,Lee County,-0.07073868984618659
+Georgia,Liberty County,0.005606973638691004
+Georgia,Lincoln County,0.012246909998068989
+Georgia,Long County,-0.029215505935375696
+Georgia,Lowndes County,-0.0008772457898472141
+Georgia,Lumpkin County,-0.025521013853603225
+Georgia,McDuffie County,-0.0026673134458108927
+Georgia,McIntosh County,0.015966921425830893
+Georgia,Macon County,-0.008903456506898083
+Georgia,Madison County,-0.04236600101446314
+Georgia,Marion County,-0.023650297062467518
+Georgia,Meriwether County,-0.011395340343168692
+Georgia,Miller County,-0.020692425359781053
+Georgia,Mitchell County,-0.0022774210403607997
+Georgia,Monroe County,-0.021520769983157384
+Georgia,Montgomery County,-0.029437470369808483
+Georgia,Morgan County,-0.017657948463057405
+Georgia,Murray County,-0.03605795577177012
+Georgia,Muscogee County,-0.0537327383649944
+Georgia,Newton County,-0.1027373225625829
+Georgia,Oconee County,-0.03617414606473912
+Georgia,Oglethorpe County,-0.024137449167628167
+Georgia,Paulding County,-0.1098887047927081
+Georgia,Peach County,-0.046641048627918506
+Georgia,Pickens County,-0.059968688141192106
+Georgia,Pierce County,-0.03668158336604782
+Georgia,Pike County,-0.03700409103477437
+Georgia,Polk County,-0.025981577378039467
+Georgia,Pulaski County,-0.04403205304672936
+Georgia,Putnam County,-0.04645874062763339
+Georgia,Quitman County,-0.002756838062493286
+Georgia,Rabun County,-0.06534725486107568
+Georgia,Randolph County,-0.0452103684272752
+Georgia,Richmond County,-0.04988321653718303
+Georgia,Rockdale County,-0.1276174705704659
+Georgia,Schley County,-0.023735574789116864
+Georgia,Screven County,0.0023994514675685086
+Georgia,Seminole County,-0.005127921449111006
+Georgia,Spalding County,-0.10151036979994482
+Georgia,Stephens County,-0.019637272434102127
+Georgia,Stewart County,-0.03166238290896339
+Georgia,Sumter County,-0.0347304883965867
+Georgia,Talbot County,0.024741438716234784
+Georgia,Taliaferro County,0.006875784767881199
+Georgia,Tattnall County,-0.013814706233380658
+Georgia,Taylor County,-0.019113349392680723
+Georgia,Telfair County,0.02408701773474803
+Georgia,Terrell County,-0.017163022286906006
+Georgia,Thomas County,-0.014135166253189113
+Georgia,Tift County,-0.03958411450527449
+Georgia,Toombs County,-0.005421204823091108
+Georgia,Towns County,-0.043246479653583025
+Georgia,Treutlen County,0.01027499273610405
+Georgia,Troup County,-0.03499026325139301
+Georgia,Turner County,-0.023459121727816418
+Georgia,Twiggs County,0.01301329057082519
+Georgia,Union County,-0.06890407097773582
+Georgia,Upson County,-0.0041305740746533925
+Georgia,Walker County,-0.06029526934739965
+Georgia,Walton County,-0.09362781169563211
+Georgia,Ware County,-0.032954440696692955
+Georgia,Warren County,0.0064965870663755
+Georgia,Washington County,-0.0334171983351106
+Georgia,Wayne County,-0.034046922400792934
+Georgia,Webster County,0.04609197649290589
+Georgia,Wheeler County,-0.0008541794603110775
+Georgia,White County,-0.037475859380434906
+Georgia,Whitfield County,-0.022943066134862078
+Georgia,Wilcox County,-0.03857444273261573
+Georgia,Wilkes County,-0.023709470998840104
+Georgia,Wilkinson County,-0.005813039339720313
+Georgia,Worth County,-0.03412896620880107
+Hawaii,Hawaii County,0.019407127481722686
+Hawaii,Honolulu County,-0.008372985021099483
+Hawaii,Kauai County,0.03216209260938238
+Hawaii,Maui County,0.0351004534283213
+Idaho,Ada County,0.003833418577632905
+Idaho,Adams County,-0.03746006923959294
+Idaho,Bannock County,-0.028309599020121923
+Idaho,Bear Lake County,-0.06332545704393505
+Idaho,Benewah County,-0.029634336012044515
+Idaho,Bingham County,-0.020006818407384885
+Idaho,Blaine County,-0.009120782586697018
+Idaho,Boise County,0.008524569097646983
+Idaho,Bonner County,0.0332190534735457
+Idaho,Bonneville County,-0.042908563318035386
+Idaho,Boundary County,0.004684969263503425
+Idaho,Butte County,-0.05210595130801571
+Idaho,Camas County,0.0060099543508335684
+Idaho,Canyon County,0.009081857415623895
+Idaho,Caribou County,-0.07283448436765111
+Idaho,Cassia County,-0.038929013119334444
+Idaho,Clark County,-0.08674888580239609
+Idaho,Clearwater County,-0.014996477227063265
+Idaho,Custer County,-0.07010135862018879
+Idaho,Elmore County,-0.030184501791292007
+Idaho,Franklin County,-0.06273991537841711
+Idaho,Fremont County,-0.04803315212536535
+Idaho,Gem County,-0.017903821013698862
+Idaho,Gooding County,-0.01861891935671295
+Idaho,Idaho County,-0.03443225225096952
+Idaho,Jefferson County,-0.06420527705091111
+Idaho,Jerome County,-0.014632309415214262
+Idaho,Kootenai County,0.029400338275713866
+Idaho,Latah County,0.056489289176395396
+Idaho,Lemhi County,-0.051151350586682354
+Idaho,Lewis County,-0.019996314619328104
+Idaho,Lincoln County,-0.04396181760338397
+Idaho,Madison County,-0.05415261071360239
+Idaho,Minidoka County,-0.017597348881461194
+Idaho,Nez Perce County,-0.01033606931525649
+Idaho,Oneida County,-0.07572081810082681
+Idaho,Owyhee County,-0.017917298363196055
+Idaho,Payette County,-0.025032707127035814
+Idaho,Power County,-0.014965380416198604
+Idaho,Shoshone County,0.016472600578282592
+Idaho,Teton County,-0.056301211206894894
+Idaho,Twin Falls County,-0.022344903455490728
+Idaho,Valley County,-0.012101287966288704
+Idaho,Washington County,-0.021228983504922583
+Illinois,Adams County,-0.0512013125186887
+Illinois,Alexander County,-0.009685817618887316
+Illinois,Bond County,-0.022208429910761662
+Illinois,Boone County,-0.049039457194671704
+Illinois,Brown County,-0.03348966752389254
+Illinois,Bureau County,-0.03216440368611609
+Illinois,Calhoun County,0.005241437028987717
+Illinois,Carroll County,-0.037398308198844266
+Illinois,Cass County,-0.003905029634772683
+Illinois,Champaign County,-0.07336225611711411
+Illinois,Christian County,-0.0396135599764067
+Illinois,Clark County,-0.05466698287260924
+Illinois,Clay County,-0.03929938638127645
+Illinois,Clinton County,-0.05266999116398646
+Illinois,Coles County,-0.039843982123925925
+Illinois,Cook County,0.022564645951292372
+Illinois,Crawford County,-0.049021005611311674
+Illinois,Cumberland County,-0.03309452893510262
+Illinois,DeKalb County,-0.023094655381947
+Illinois,De Witt County,-0.040554771254685595
+Illinois,Douglas County,-0.04324308325960491
+Illinois,DuPage County,-0.013038834734690197
+Illinois,Edgar County,-0.0622495735160114
+Illinois,Edwards County,-0.04589025985575618
+Illinois,Effingham County,-0.04836209506379324
+Illinois,Fayette County,-0.031271039886981045
+Illinois,Ford County,-0.054352847687166195
+Illinois,Franklin County,-0.0294056574983817
+Illinois,Fulton County,-0.023149594294309878
+Illinois,Gallatin County,-0.04408797884109755
+Illinois,Greene County,-0.03181451876687441
+Illinois,Grundy County,-0.02225881761000298
+Illinois,Hamilton County,-0.03081958035948945
+Illinois,Hancock County,-0.050128514370807675
+Illinois,Hardin County,-0.01720352329404523
+Illinois,Henderson County,-0.002613953493613097
+Illinois,Henry County,-0.0298091779851562
+Illinois,Iroquois County,-0.05452142532687093
+Illinois,Jackson County,-0.08251644434962771
+Illinois,Jasper County,-0.032174299933550754
+Illinois,Jefferson County,-0.03391502577186267
+Illinois,Jersey County,-0.039326061307555504
+Illinois,Jo Daviess County,-0.0566748171469387
+Illinois,Johnson County,-0.06330609263917603
+Illinois,Kane County,-0.010010856720861508
+Illinois,Kankakee County,-0.017428392253326208
+Illinois,Kendall County,-0.018408182087589903
+Illinois,Knox County,-0.022924522044098096
+Illinois,Lake County,-0.027357223928934193
+Illinois,LaSalle County,-0.01851951653035591
+Illinois,Lawrence County,-0.03791435986428443
+Illinois,Lee County,-0.03427011853721948
+Illinois,Livingston County,-0.039404338163558705
+Illinois,Logan County,-0.0434802706433321
+Illinois,McDonough County,-0.03752097835008689
+Illinois,McHenry County,-0.032390013388587505
+Illinois,McLean County,-0.0699365601669277
+Illinois,Macon County,-0.0482826769862946
+Illinois,Macoupin County,-0.03354126636120519
+Illinois,Madison County,-0.060058902551880095
+Illinois,Marion County,-0.031626542598713
+Illinois,Marshall County,-0.045820949614974404
+Illinois,Mason County,-0.0324874661789008
+Illinois,Massac County,-0.05258671075445159
+Illinois,Menard County,-0.039788062886033315
+Illinois,Mercer County,-0.028825194874180587
+Illinois,Monroe County,-0.05454753200599333
+Illinois,Montgomery County,-0.02997277800177689
+Illinois,Morgan County,-0.05340565971281108
+Illinois,Moultrie County,-0.05929305269592289
+Illinois,Ogle County,-0.025444077491101502
+Illinois,Peoria County,-0.0435616455931726
+Illinois,Perry County,-0.007434651603839049
+Illinois,Piatt County,-0.05132112687205681
+Illinois,Pike County,-0.031703894796650534
+Illinois,Pope County,-0.051728133185403646
+Illinois,Pulaski County,-0.025056875063017514
+Illinois,Putnam County,-0.025453403284779713
+Illinois,Randolph County,-0.06255210100083053
+Illinois,Richland County,-0.05367830052613104
+Illinois,Rock Island County,-0.035214299285466
+Illinois,St. Clair County,-0.051823445157074405
+Illinois,Saline County,-0.04951520272132459
+Illinois,Sangamon County,-0.0543828040763615
+Illinois,Schuyler County,-0.02725142257267088
+Illinois,Scott County,-0.011060499283912562
+Illinois,Shelby County,-0.0301537722748752
+Illinois,Stark County,-0.016754670453906606
+Illinois,Stephenson County,-0.023514862798078795
+Illinois,Tazewell County,-0.04995099008250303
+Illinois,Union County,-0.03078226618530161
+Illinois,Vermilion County,-0.0325349875040446
+Illinois,Wabash County,-0.05418536415481007
+Illinois,Warren County,-0.009203681686338616
+Illinois,Washington County,-0.05281439238504998
+Illinois,Wayne County,-0.05574267678562689
+Illinois,White County,-0.04155816223905645
+Illinois,Whiteside County,0.0035691844784478816
+Illinois,Will County,0.006764805912953795
+Illinois,Williamson County,-0.046034232081859194
+Illinois,Winnebago County,-0.0410390699762004
+Illinois,Woodford County,-0.041702528183725995
+Indiana,Adams County,-0.058242972951586924
+Indiana,Allen County,-0.047445326287188894
+Indiana,Bartholomew County,-0.048537067819909296
+Indiana,Benton County,-0.0748880651246408
+Indiana,Blackford County,-0.017932196947653023
+Indiana,Boone County,-0.08479749133772299
+Indiana,Brown County,-0.039296494674603666
+Indiana,Carroll County,-0.051371432259035454
+Indiana,Cass County,-0.009549126307668687
+Indiana,Clark County,-0.039552649837211296
+Indiana,Clay County,-0.057502290306523596
+Indiana,Clinton County,-0.0416399845490209
+Indiana,Crawford County,-0.005286657850052945
+Indiana,Daviess County,-0.037034801442424936
+Indiana,Dearborn County,-0.03187027526043135
+Indiana,Decatur County,-0.05616883920184984
+Indiana,DeKalb County,-0.06202308107868132
+Indiana,Delaware County,-0.03438671989668471
+Indiana,Dubois County,-0.03964883777241668
+Indiana,Elkhart County,-0.01703265846157881
+Indiana,Fayette County,-0.04156975480568831
+Indiana,Floyd County,-0.046138150998742106
+Indiana,Fountain County,-0.027465426157597228
+Indiana,Franklin County,-0.04586519606276601
+Indiana,Fulton County,-0.030475899644737903
+Indiana,Gibson County,-0.02848484611048585
+Indiana,Grant County,-0.030382855278985987
+Indiana,Greene County,-0.04489932537794533
+Indiana,Hamilton County,-0.0677237403606263
+Indiana,Hancock County,-0.09855429005590949
+Indiana,Harrison County,-0.04659970270218533
+Indiana,Hendricks County,-0.0849570714621673
+Indiana,Henry County,-0.0349588008924801
+Indiana,Howard County,-0.0313291788963036
+Indiana,Huntington County,-0.0752757418087755
+Indiana,Jackson County,-0.04073450285990127
+Indiana,Jasper County,-0.007404305585584969
+Indiana,Jay County,-0.0328518699698514
+Indiana,Jefferson County,-0.03492934495962702
+Indiana,Jennings County,-0.04097528321788774
+Indiana,Johnson County,-0.05827744017910008
+Indiana,Knox County,-0.030449063206625493
+Indiana,Kosciusko County,-0.0444663634608245
+Indiana,LaGrange County,-0.0337087966138207
+Indiana,Lake County,0.0337063272200135
+Indiana,LaPorte County,0.008689636303525095
+Indiana,Lawrence County,-0.05630120432406954
+Indiana,Madison County,-0.016667448372730292
+Indiana,Marion County,-0.04559116475911129
+Indiana,Marshall County,-0.03445454929621078
+Indiana,Martin County,-0.039922066221139196
+Indiana,Miami County,-0.04626443053777224
+Indiana,Monroe County,-0.05296062311749611
+Indiana,Montgomery County,-0.06948353109656291
+Indiana,Morgan County,-0.06277733404634761
+Indiana,Newton County,-0.011497399817909149
+Indiana,Noble County,-0.043243091285456614
+Indiana,Ohio County,-0.024524490945127486
+Indiana,Orange County,-0.015426795100560997
+Indiana,Owen County,-0.04477770673075915
+Indiana,Parke County,-0.04673643677155587
+Indiana,Perry County,-0.008383835278944818
+Indiana,Pike County,-0.038736082965960594
+Indiana,Porter County,-0.016413326596693395
+Indiana,Posey County,-0.03367818537421691
+Indiana,Pulaski County,-0.003017125327340775
+Indiana,Putnam County,-0.042722231684497014
+Indiana,Randolph County,-0.04769533641449347
+Indiana,Ripley County,-0.04025048632198641
+Indiana,Rush County,-0.059679241791890714
+Indiana,St. Joseph County,-0.016741497952544607
+Indiana,Scott County,-0.0012878572407958866
+Indiana,Shelby County,-0.057807962565235904
+Indiana,Spencer County,-0.012537692563925895
+Indiana,Starke County,-0.00800124174485195
+Indiana,Steuben County,-0.0607615032240712
+Indiana,Sullivan County,-0.03800004653778838
+Indiana,Switzerland County,-0.007962064027426552
+Indiana,Tippecanoe County,-0.0527975551874308
+Indiana,Tipton County,-0.07910884992980477
+Indiana,Union County,-0.06200223163413304
+Indiana,Vanderburgh County,-0.02963639196288191
+Indiana,Vermillion County,-0.01927297560264063
+Indiana,Vigo County,-0.026680728809128307
+Indiana,Wabash County,-0.051066678253479436
+Indiana,Warren County,-0.030110260959483715
+Indiana,Warrick County,-0.03643810845886103
+Indiana,Washington County,-0.03359468190255149
+Indiana,Wayne County,-0.026390509630384917
+Indiana,Wells County,-0.04615734779417108
+Indiana,White County,-0.051370335925712884
+Indiana,Whitley County,-0.052756317265234665
+Iowa,Adair County,-0.021641882591265982
+Iowa,Adams County,-0.05400623649271685
+Iowa,Allamakee County,-0.008006136632988825
+Iowa,Appanoose County,0.004110735118361297
+Iowa,Audubon County,-0.03422335554483763
+Iowa,Benton County,-0.0030849193750734916
+Iowa,Black Hawk County,0.018203305916258197
+Iowa,Boone County,-0.0010295752257551971
+Iowa,Bremer County,0.0007724673639832869
+Iowa,Buchanan County,0.012920847836285693
+Iowa,Buena Vista County,0.015705818144784
+Iowa,Butler County,0.00803842288566381
+Iowa,Calhoun County,-0.015113289061586599
+Iowa,Carroll County,-0.01909929720900455
+Iowa,Cass County,-0.03359934174715312
+Iowa,Cedar County,-0.012914422953221899
+Iowa,Cerro Gordo County,-0.006994738985520693
+Iowa,Cherokee County,0.00470775628151876
+Iowa,Chickasaw County,-0.0017328349490853823
+Iowa,Clarke County,0.0007853184668616953
+Iowa,Clay County,-0.015614152525822267
+Iowa,Clayton County,-0.003537206014319616
+Iowa,Clinton County,0.02498595912117009
+Iowa,Crawford County,0.006512379174062888
+Iowa,Dallas County,-0.0327246960085351
+Iowa,Davis County,-0.008546070291118535
+Iowa,Decatur County,0.017214664925910783
+Iowa,Delaware County,-0.015029562737984226
+Iowa,Des Moines County,0.0049544472986383925
+Iowa,Dickinson County,0.003796956932907103
+Iowa,Dubuque County,-0.0033025594769868077
+Iowa,Emmet County,0.020273198605080422
+Iowa,Fayette County,0.017495929497822
+Iowa,Floyd County,0.002690591990114899
+Iowa,Franklin County,0.006700254680665374
+Iowa,Fremont County,-0.03729435154880151
+Iowa,Greene County,-0.018006193763504597
+Iowa,Grundy County,-0.016888395247964205
+Iowa,Guthrie County,-0.039877781654240274
+Iowa,Hamilton County,0.006607050013878679
+Iowa,Hancock County,-0.02486366459971201
+Iowa,Hardin County,0.0036817687930416065
+Iowa,Harrison County,-0.025721416035688005
+Iowa,Henry County,-0.02445633172059003
+Iowa,Howard County,-0.015727778386084967
+Iowa,Humboldt County,-0.006516481273910524
+Iowa,Ida County,-0.03635314712896037
+Iowa,Iowa County,-0.03569256397700099
+Iowa,Jackson County,0.0034386236373459833
+Iowa,Jasper County,0.00017783094477719086
+Iowa,Jefferson County,-0.006305457327841997
+Iowa,Johnson County,-0.00867711261854509
+Iowa,Jones County,-0.012211935263026802
+Iowa,Keokuk County,0.005597613768595855
+Iowa,Kossuth County,-0.012508237612508633
+Iowa,Lee County,0.0245979549299013
+Iowa,Linn County,-0.022072053089864
+Iowa,Louisa County,0.016551367978012987
+Iowa,Lucas County,-0.01208855414669302
+Iowa,Lyon County,-0.03831971027633346
+Iowa,Madison County,-0.01794771327799738
+Iowa,Mahaska County,-0.018138575305768512
+Iowa,Marion County,-0.019915333170661964
+Iowa,Marshall County,0.018401574198944504
+Iowa,Mills County,-0.04157896310010578
+Iowa,Mitchell County,-0.02789278603192008
+Iowa,Monona County,0.004075973955722401
+Iowa,Monroe County,-0.017444178059754845
+Iowa,Montgomery County,-0.05927870836815363
+Iowa,Muscatine County,0.01868373113667471
+Iowa,O'Brien County,-0.01954721235033091
+Iowa,Osceola County,-0.04566656378581385
+Iowa,Page County,-0.06598828827726078
+Iowa,Palo Alto County,0.016025044003975975
+Iowa,Plymouth County,-0.01117223097243819
+Iowa,Pocahontas County,-0.015116438848325253
+Iowa,Polk County,-0.016853346272423603
+Iowa,Pottawattamie County,-0.028456018008808898
+Iowa,Poweshiek County,-0.024040673586769923
+Iowa,Ringgold County,-0.011057254414097106
+Iowa,Sac County,-0.027174773649346506
+Iowa,Scott County,0.013591028125522486
+Iowa,Shelby County,-0.033338032977084375
+Iowa,Sioux County,-0.013844130854416103
+Iowa,Story County,0.009050000507931505
+Iowa,Tama County,0.01751765545352091
+Iowa,Taylor County,-0.031688087398852594
+Iowa,Union County,-0.01360705630266501
+Iowa,Van Buren County,-0.0296287904547608
+Iowa,Wapello County,0.017772098641832712
+Iowa,Warren County,-0.020789711497144286
+Iowa,Washington County,-0.020934802594013813
+Iowa,Wayne County,-0.006913239286984563
+Iowa,Webster County,0.008728776878222183
+Iowa,Winnebago County,-0.01680126119926273
+Iowa,Winneshiek County,-0.018893787395922998
+Iowa,Woodbury County,0.014793036785689495
+Iowa,Worth County,-0.036744592000767407
+Iowa,Wright County,-0.03752445123061299
+Kansas,Allen County,-0.04333757141903222
+Kansas,Anderson County,-0.029601790451645627
+Kansas,Atchison County,-0.030407140854441295
+Kansas,Barber County,-0.07717372266234696
+Kansas,Barton County,-0.05657741921789844
+Kansas,Bourbon County,-0.03870523799567466
+Kansas,Brown County,-0.06286639350531753
+Kansas,Butler County,-0.06322858196424191
+Kansas,Chase County,-0.07587789558143726
+Kansas,Chautauqua County,-0.07310378815082103
+Kansas,Cherokee County,-0.02957801020250128
+Kansas,Cheyenne County,-0.04193082788938113
+Kansas,Clark County,-0.04060239213799849
+Kansas,Clay County,-0.04862795119053415
+Kansas,Cloud County,-0.0031587981409087473
+Kansas,Coffey County,-0.06095286639031622
+Kansas,Comanche County,-0.06206592756827217
+Kansas,Cowley County,-0.036418733750479715
+Kansas,Crawford County,-0.03892115416192918
+Kansas,Decatur County,-0.0726470928131217
+Kansas,Dickinson County,-0.0521722567491672
+Kansas,Doniphan County,-0.043076457422479064
+Kansas,Douglas County,-0.045965910697828516
+Kansas,Edwards County,-0.015761596100661357
+Kansas,Elk County,-0.06094042002523076
+Kansas,Ellis County,-0.03881511811591026
+Kansas,Ellsworth County,-0.05786874994105223
+Kansas,Finney County,0.031554565207993435
+Kansas,Ford County,0.002670520881077998
+Kansas,Franklin County,-0.043324256929986205
+Kansas,Geary County,-0.031177585611261993
+Kansas,Gove County,-0.051643324391641376
+Kansas,Graham County,-0.04131291805546472
+Kansas,Grant County,-0.006932320182260365
+Kansas,Gray County,-0.05529672380127365
+Kansas,Greeley County,-0.05815915194685867
+Kansas,Greenwood County,-0.058748526320331396
+Kansas,Hamilton County,-0.0549298103582862
+Kansas,Harper County,-0.058328300499634944
+Kansas,Harvey County,-0.047146353425524506
+Kansas,Haskell County,-0.02446174510782223
+Kansas,Hodgeman County,-0.04758759264123108
+Kansas,Jackson County,-0.0337366859358979
+Kansas,Jefferson County,-0.01350357468183766
+Kansas,Jewell County,-0.021970155375498235
+Kansas,Johnson County,-0.0634094245420759
+Kansas,Kearny County,0.0016107069274158836
+Kansas,Kingman County,-0.06085335413037479
+Kansas,Kiowa County,-0.05263965905314566
+Kansas,Labette County,-0.038853345253913096
+Kansas,Lane County,-0.07512558194791291
+Kansas,Leavenworth County,-0.0437947342616245
+Kansas,Lincoln County,-0.04950973321245716
+Kansas,Linn County,-0.04223907764712903
+Kansas,Logan County,-0.07187456280695398
+Kansas,Lyon County,-0.023857110730819905
+Kansas,McPherson County,-0.052247128166411305
+Kansas,Marion County,-0.057445355294392375
+Kansas,Marshall County,-0.05183679404745106
+Kansas,Meade County,-0.054326662692874284
+Kansas,Miami County,-0.06154257365473048
+Kansas,Mitchell County,-0.03216911996125321
+Kansas,Montgomery County,-0.052213925339001654
+Kansas,Morris County,-0.07354620876920648
+Kansas,Morton County,-0.0633228719742071
+Kansas,Nemaha County,-0.04646863389665884
+Kansas,Neosho County,-0.04193319892670405
+Kansas,Ness County,-0.056436815094990045
+Kansas,Norton County,-0.05989642108620813
+Kansas,Osage County,-0.02258196017186853
+Kansas,Osborne County,-0.06741090149080181
+Kansas,Ottawa County,-0.05221665655776958
+Kansas,Pawnee County,-0.05890065678071993
+Kansas,Phillips County,-0.07541018896875101
+Kansas,Pottawatomie County,-0.051497507968777834
+Kansas,Pratt County,-0.07260587361499221
+Kansas,Rawlins County,-0.02932846676823858
+Kansas,Reno County,-0.058481450575329774
+Kansas,Republic County,-0.06630173922284638
+Kansas,Rice County,-0.021712210959780653
+Kansas,Riley County,-0.0460965096043987
+Kansas,Rooks County,-0.08579665770836103
+Kansas,Rush County,-0.05471827307009275
+Kansas,Russell County,-0.0812543276217838
+Kansas,Saline County,-0.049510328242120816
+Kansas,Scott County,-0.045883315853267825
+Kansas,Sedgwick County,-0.0477730538637442
+Kansas,Seward County,0.025521439888670117
+Kansas,Shawnee County,-0.035507559881911
+Kansas,Sheridan County,-0.039438285609494084
+Kansas,Sherman County,-0.06003159962574428
+Kansas,Smith County,-0.04703823687609948
+Kansas,Stafford County,-0.05289476256818609
+Kansas,Stanton County,-0.024594850982341654
+Kansas,Stevens County,-0.05575457126110034
+Kansas,Sumner County,-0.06492645887966114
+Kansas,Thomas County,-0.05736465989812928
+Kansas,Trego County,-0.0383376892370369
+Kansas,Wabaunsee County,-0.053352914790540384
+Kansas,Wallace County,-0.0916291623625442
+Kansas,Washington County,-0.024913480439570146
+Kansas,Wichita County,-0.006973532692436446
+Kansas,Wilson County,-0.052293261765280874
+Kansas,Woodson County,-0.05353603663073442
+Kansas,Wyandotte County,0.01052500682569793
+Kentucky,Adair County,-0.019625126022128014
+Kentucky,Allen County,-0.024326786880619344
+Kentucky,Anderson County,-0.045950512109736996
+Kentucky,Ballard County,-0.015126177058907009
+Kentucky,Barren County,-0.00722185314177437
+Kentucky,Bath County,0.02348799571443222
+Kentucky,Bell County,-0.005985364392084469
+Kentucky,Boone County,-0.045572714308564966
+Kentucky,Bourbon County,-0.025170160213795423
+Kentucky,Boyd County,-0.006688799199544848
+Kentucky,Boyle County,-0.01715696232426489
+Kentucky,Bracken County,-0.02176125883867136
+Kentucky,Breathitt County,0.009409217784377144
+Kentucky,Breckinridge County,-0.0032301226063374266
+Kentucky,Bullitt County,-0.030472889540445802
+Kentucky,Butler County,-0.030954023660467234
+Kentucky,Caldwell County,-0.01776881637304556
+Kentucky,Calloway County,0.0009382922684124662
+Kentucky,Campbell County,-0.05010145880472519
+Kentucky,Carlisle County,-0.02361558569665617
+Kentucky,Carroll County,0.004776725873992915
+Kentucky,Carter County,-0.005155096645706403
+Kentucky,Casey County,-0.02964041746913909
+Kentucky,Christian County,-0.008892882079238495
+Kentucky,Clark County,-0.027335449385705313
+Kentucky,Clay County,-0.027407345359217905
+Kentucky,Clinton County,-0.04220760260867212
+Kentucky,Crittenden County,-0.017722518161699174
+Kentucky,Cumberland County,-0.034467982396756025
+Kentucky,Daviess County,-0.019778314140672215
+Kentucky,Edmonson County,-0.018543034563092975
+Kentucky,Elliott County,0.046790031149986755
+Kentucky,Estill County,-0.0006537589436303448
+Kentucky,Fayette County,-0.0339601140236557
+Kentucky,Fleming County,-0.028531982333951766
+Kentucky,Floyd County,0.02002691589008193
+Kentucky,Franklin County,-0.0213643215468744
+Kentucky,Fulton County,0.003496285570854518
+Kentucky,Gallatin County,-0.01512934444073638
+Kentucky,Garrard County,-0.024100685659615484
+Kentucky,Grant County,0.0004662362460712832
+Kentucky,Graves County,-0.011214936028073275
+Kentucky,Grayson County,-0.03085940600882292
+Kentucky,Green County,-0.008722090811973338
+Kentucky,Greenup County,-0.00563597737957805
+Kentucky,Hancock County,0.02378291836785329
+Kentucky,Hardin County,-0.006711282691443499
+Kentucky,Harlan County,-0.016268109306504408
+Kentucky,Harrison County,-0.019436014982976757
+Kentucky,Hart County,0.00992281000463352
+Kentucky,Henderson County,-0.014006016668057675
+Kentucky,Henry County,0.007899054303386888
+Kentucky,Hickman County,-0.021609988176399197
+Kentucky,Hopkins County,-0.0313189483766701
+Kentucky,Jackson County,-0.03580080092472043
+Kentucky,Jefferson County,-0.024883926828369207
+Kentucky,Jessamine County,-0.026473957727883912
+Kentucky,Johnson County,-0.024994826956389937
+Kentucky,Kenton County,-0.035887865693376986
+Kentucky,Knott County,-0.007567824862601824
+Kentucky,Knox County,-0.019546843364693645
+Kentucky,Larue County,-0.02903590825439467
+Kentucky,Laurel County,-0.02925068064167463
+Kentucky,Lawrence County,-0.01976704521181777
+Kentucky,Lee County,-0.023217613162483997
+Kentucky,Leslie County,-0.05623649797055169
+Kentucky,Letcher County,-0.014984666441308414
+Kentucky,Lewis County,-0.010994453005235105
+Kentucky,Lincoln County,-0.01966496369051257
+Kentucky,Livingston County,-0.043575835172453725
+Kentucky,Logan County,0.006574203915502064
+Kentucky,Lyon County,-0.0010540713305149385
+Kentucky,McCracken County,-0.0277233880503579
+Kentucky,McCreary County,-0.04024865921744741
+Kentucky,McLean County,-0.03671233879798569
+Kentucky,Madison County,-0.019398874876158212
+Kentucky,Magoffin County,0.03687400693580528
+Kentucky,Marion County,-0.005049248928892303
+Kentucky,Marshall County,-0.017605772848094337
+Kentucky,Martin County,-0.010106035500995925
+Kentucky,Mason County,-0.01488172109533109
+Kentucky,Meade County,-0.0040755109614990515
+Kentucky,Menifee County,0.013231474435748292
+Kentucky,Mercer County,-0.021079859906008858
+Kentucky,Metcalfe County,-0.009203701737160397
+Kentucky,Monroe County,-0.032441743608673634
+Kentucky,Montgomery County,-0.012062872674050984
+Kentucky,Morgan County,0.011148628610977263
+Kentucky,Muhlenberg County,-0.005129694092563641
+Kentucky,Nelson County,-0.008946362170128175
+Kentucky,Nicholas County,0.001953816562745847
+Kentucky,Ohio County,-0.013329235212771462
+Kentucky,Oldham County,-0.04917083973904571
+Kentucky,Owen County,-0.018364113223540424
+Kentucky,Owsley County,-0.05455650961422248
+Kentucky,Pendleton County,-0.03066774916659082
+Kentucky,Perry County,-0.00851167822731319
+Kentucky,Pike County,-0.013595488028647351
+Kentucky,Powell County,-0.0017350269243285865
+Kentucky,Pulaski County,-0.03459104584640621
+Kentucky,Robertson County,0.0008795157937838138
+Kentucky,Rockcastle County,-0.0282958477158039
+Kentucky,Rowan County,0.007120124410945811
+Kentucky,Russell County,-0.029267374665572887
+Kentucky,Scott County,-0.03186529720924039
+Kentucky,Shelby County,-0.009891625536498583
+Kentucky,Simpson County,0.011028856814523313
+Kentucky,Spencer County,-0.036003098419005564
+Kentucky,Taylor County,-0.005916576547370156
+Kentucky,Todd County,-0.014483499715224946
+Kentucky,Trigg County,-0.03771917276971565
+Kentucky,Trimble County,-0.01770445149481409
+Kentucky,Union County,0.00037136004796617383
+Kentucky,Warren County,0.014167226173458891
+Kentucky,Washington County,-0.013461377685553
+Kentucky,Wayne County,-0.021074995115333228
+Kentucky,Webster County,-0.0032326310572450834
+Kentucky,Whitley County,-0.019385182309929194
+Kentucky,Wolfe County,0.022973242663240467
+Kentucky,Woodford County,-0.03821813834443369
+Louisiana,Acadia Parish,-0.02432448707135676
+Louisiana,Allen Parish,-0.00713979956629357
+Louisiana,Ascension Parish,-0.04647459110238
+Louisiana,Assumption Parish,-0.010468678399336517
+Louisiana,Avoyelles Parish,-0.0366031342053913
+Louisiana,Beauregard Parish,-0.02229839893941149
+Louisiana,Bienville Parish,0.0031895434440450954
+Louisiana,Bossier Parish,-0.037048431624615574
+Louisiana,Caddo Parish,-0.039215944690305406
+Louisiana,Calcasieu Parish,-0.016354138105703186
+Louisiana,Caldwell Parish,-0.013467348514845823
+Louisiana,Cameron Parish,-0.026189000287404618
+Louisiana,Catahoula Parish,-0.022560170375215183
+Louisiana,Claiborne Parish,0.0022978379687079165
+Louisiana,Concordia Parish,-0.035713509710114
+Louisiana,De Soto Parish,0.04613067674977206
+Louisiana,East Baton Rouge Parish,-0.040627491839953594
+Louisiana,East Carroll Parish,0.0331983536260646
+Louisiana,East Feliciana Parish,-0.007878956031692502
+Louisiana,Evangeline Parish,-0.017017412479192806
+Louisiana,Franklin Parish,-0.012089190939662098
+Louisiana,Grant Parish,-0.033101809388072445
+Louisiana,Iberia Parish,-0.031759210220759615
+Louisiana,Iberville Parish,-0.0158947603362981
+Louisiana,Jackson Parish,-0.010447089677716237
+Louisiana,Jefferson Parish,-0.04172257562875589
+Louisiana,Jefferson Davis Parish,-0.002495771111824474
+Louisiana,Lafayette Parish,-0.03350114284099914
+Louisiana,Lafourche Parish,-0.04225146844929023
+Louisiana,LaSalle Parish,-0.04413452657689837
+Louisiana,Lincoln Parish,-0.0005516706115505365
+Louisiana,Livingston Parish,-0.07503768739247024
+Louisiana,Madison Parish,0.03251009556735279
+Louisiana,Morehouse Parish,-0.002104451440644889
+Louisiana,Natchitoches Parish,0.014281095876059496
+Louisiana,Orleans Parish,-0.04894312274008289
+Louisiana,Ouachita Parish,-0.017897196952279565
+Louisiana,Plaquemines Parish,-0.043299833042532376
+Louisiana,Pointe Coupee Parish,-0.012896485611663427
+Louisiana,Rapides Parish,-0.01328342165979679
+Louisiana,Red River Parish,0.026245479930712995
+Louisiana,Richland Parish,-0.006643793235724116
+Louisiana,Sabine Parish,-0.024681342532368034
+Louisiana,St. Bernard Parish,-0.05230245069349798
+Louisiana,St. Charles Parish,-0.03267598438701008
+Louisiana,St. Helena Parish,0.0345741146426294
+Louisiana,St. James Parish,-0.006905010451849908
+Louisiana,St. John the Baptist Parish,-0.069779588794737
+Louisiana,St. Landry Parish,-0.01290486228781218
+Louisiana,St. Martin Parish,-0.014336884314105569
+Louisiana,St. Mary Parish,-0.03307447244933798
+Louisiana,St. Tammany Parish,-0.0644243554318274
+Louisiana,Tangipahoa Parish,-0.014412537270131864
+Louisiana,Tensas Parish,0.03404901556079
+Louisiana,Terrebonne Parish,-0.042716084703776025
+Louisiana,Union Parish,-0.004084230711791037
+Louisiana,Vermilion Parish,-0.04124272538012247
+Louisiana,Vernon Parish,-0.030775817188540777
+Louisiana,Washington Parish,-0.03353166516620132
+Louisiana,Webster Parish,-0.006178165366890698
+Louisiana,West Baton Rouge Parish,-0.0486548130635423
+Louisiana,West Carroll Parish,-0.03398573502633667
+Louisiana,West Feliciana Parish,0.009328761920953277
+Louisiana,Winn Parish,-0.010510796693102564
+Maine,Androscoggin County,-0.027582801077330105
+Maine,Aroostook County,0.0024450266468325765
+Maine,Cumberland County,-0.06645502157857358
+Maine,Franklin County,-0.017426714099086
+Maine,Hancock County,-0.053942791656772904
+Maine,Kennebec County,-0.030383927036515202
+Maine,Knox County,-0.0470473011121364
+Maine,Lincoln County,-0.0700178577058499
+Maine,Oxford County,-0.019243776432759513
+Maine,Penobscot County,-0.034780943559020505
+Maine,Piscataquis County,-0.03371638347325495
+Maine,Sagadahoc County,-0.0696548415150032
+Maine,Somerset County,-0.023643926466064086
+Maine,Waldo County,-0.0468176523605662
+Maine,Washington County,-0.02325633394804702
+Maine,York County,-0.038917391457329406
+Maryland,Allegany County,-0.0397280148905681
+Maryland,Anne Arundel County,-0.05447892374407179
+Maryland,Baltimore County,-0.03496125573406719
+Maryland,Calvert County,-0.006650099566024803
+Maryland,Caroline County,-0.00837805107763051
+Maryland,Carroll County,-0.04766570446976892
+Maryland,Cecil County,-0.017773550542909577
+Maryland,Charles County,-0.058620764847355455
+Maryland,Dorchester County,-0.03415015996492661
+Maryland,Frederick County,-0.05240285883925079
+Maryland,Garrett County,-0.0788459323859026
+Maryland,Harford County,-0.0425369282208746
+Maryland,Howard County,-0.03510817335416977
+Maryland,Kent County,-0.0199747979531254
+Maryland,Montgomery County,0.0029957243408472167
+Maryland,Prince George's County,-0.0066803902820376515
+Maryland,Queen Anne's County,-0.047779648598971325
+Maryland,St. Mary's County,-0.02682392593411559
+Maryland,Somerset County,-0.03448946059172961
+Maryland,Talbot County,-0.054990090042988105
+Maryland,Washington County,-0.03955547484844102
+Maryland,Wicomico County,-0.025006154513255094
+Maryland,Worcester County,-0.03004741188994431
+Maryland,Baltimore city,-0.023978467400803838
+Massachusetts,Barnstable County,-0.023870051208731008
+Massachusetts,Berkshire County,0.011623300491928168
+Massachusetts,Bristol County,0.046527910951062595
+Massachusetts,Dukes County,-0.017458321323996884
+Massachusetts,Essex County,0.0267381628122553
+Massachusetts,Franklin County,0.005537371476433517
+Massachusetts,Hampden County,0.027787778020945994
+Massachusetts,Hampshire County,-0.012034827914954638
+Massachusetts,Middlesex County,-0.00301002248750748
+Massachusetts,Nantucket County,0.026017794969417474
+Massachusetts,Norfolk County,0.015039077338695583
+Massachusetts,Plymouth County,0.024779292752692597
+Massachusetts,Suffolk County,0.04678851467022255
+Massachusetts,Worcester County,0.018037873512094307
+Michigan,Alcona County,-0.026811331186789078
+Michigan,Alger County,-0.0498162476059871
+Michigan,Allegan County,-0.040716542929982114
+Michigan,Alpena County,-0.05014514954292443
+Michigan,Antrim County,-0.0603144966848308
+Michigan,Arenac County,-0.011674076263760602
+Michigan,Baraga County,-0.018450362152700572
+Michigan,Barry County,-0.042222916700728585
+Michigan,Bay County,-0.028986870779106097
+Michigan,Benzie County,-0.06501422103959001
+Michigan,Berrien County,-0.05546198647079581
+Michigan,Branch County,-0.02153602716395142
+Michigan,Calhoun County,-0.030769499794702115
+Michigan,Cass County,-0.009848739063796907
+Michigan,Charlevoix County,-0.06201141062380311
+Michigan,Cheboygan County,-0.048530350471096606
+Michigan,Chippewa County,-0.046501472723780385
+Michigan,Clare County,-0.032239614553830676
+Michigan,Clinton County,-0.039618283267155496
+Michigan,Crawford County,-0.03006930558331644
+Michigan,Delta County,-0.021331201658469523
+Michigan,Dickinson County,-0.03121363112264791
+Michigan,Eaton County,-0.0367606843653745
+Michigan,Emmet County,-0.0642416353940882
+Michigan,Genesee County,-0.008959648557872006
+Michigan,Gladwin County,-0.02077889659219989
+Michigan,Gogebic County,-0.01399639830554801
+Michigan,Grand Traverse County,-0.0733235162911143
+Michigan,Gratiot County,-0.03021309439147779
+Michigan,Hillsdale County,-0.02498377605021701
+Michigan,Houghton County,-0.03202481687340272
+Michigan,Huron County,-0.047109737384669226
+Michigan,Ingham County,-0.03532932051997373
+Michigan,Ionia County,-0.044563408326551424
+Michigan,Iosco County,-0.040059636528031184
+Michigan,Iron County,-0.021035702456888683
+Michigan,Isabella County,-0.010725668961913695
+Michigan,Jackson County,-0.037552148625531495
+Michigan,Kalamazoo County,-0.05043472952835781
+Michigan,Kalkaska County,-0.04873499002843629
+Michigan,Kent County,-0.0526458786821757
+Michigan,Keweenaw County,-0.054556432197438
+Michigan,Lake County,-0.000850797214118626
+Michigan,Lapeer County,-0.02551216809827278
+Michigan,Leelanau County,-0.0859311903992516
+Michigan,Lenawee County,-0.029001083691201718
+Michigan,Livingston County,-0.046991357304793896
+Michigan,Luce County,-0.013243644647503106
+Michigan,Mackinac County,-0.049918533977542895
+Michigan,Macomb County,-0.00426071990651361
+Michigan,Manistee County,-0.05201904249325498
+Michigan,Marquette County,-0.036221633260908395
+Michigan,Mason County,-0.044130115545176624
+Michigan,Mecosta County,-0.03985806006460357
+Michigan,Menominee County,-0.025679485092695797
+Michigan,Midland County,-0.054679083056672906
+Michigan,Missaukee County,-0.03545270956850316
+Michigan,Monroe County,-0.015518772869204694
+Michigan,Montcalm County,-0.04793825484152531
+Michigan,Montmorency County,-0.04113719304491664
+Michigan,Muskegon County,-0.0369637303060693
+Michigan,Newaygo County,-0.03670922107980362
+Michigan,Oakland County,-0.025845828286858594
+Michigan,Oceana County,-0.0410871754796735
+Michigan,Ogemaw County,-0.0416267922751023
+Michigan,Ontonagon County,-0.011037095208813574
+Michigan,Osceola County,-0.0450199250550079
+Michigan,Oscoda County,-0.05280505247203088
+Michigan,Otsego County,-0.048456870066079905
+Michigan,Ottawa County,-0.07052874512585319
+Michigan,Presque Isle County,-0.06200918389651611
+Michigan,Roscommon County,-0.030892789676545407
+Michigan,Saginaw County,-0.0247515417465633
+Michigan,St. Clair County,-0.016212833431956508
+Michigan,St. Joseph County,-0.038186796294431335
+Michigan,Sanilac County,-0.03948490685290068
+Michigan,Schoolcraft County,-0.05714733951696632
+Michigan,Shiawassee County,-0.02866406256343279
+Michigan,Tuscola County,-0.02403461371637422
+Michigan,Van Buren County,-0.031557815971821
+Michigan,Washtenaw County,-0.03841500933791697
+Michigan,Wayne County,0.03109109988381642
+Michigan,Wexford County,-0.0570764398469949
+Minnesota,Aitkin County,-0.01607384146865798
+Minnesota,Anoka County,-0.034994131466558304
+Minnesota,Becker County,-0.03054076909894321
+Minnesota,Beltrami County,-0.03526245872255
+Minnesota,Benton County,-0.020266024867306776
+Minnesota,Big Stone County,-0.0373036876920248
+Minnesota,Blue Earth County,-0.003848821827548199
+Minnesota,Brown County,-0.03611425205202101
+Minnesota,Carlton County,-0.019778759414126004
+Minnesota,Carver County,-0.0551232658598559
+Minnesota,Cass County,-0.014600543813040101
+Minnesota,Chippewa County,-0.025443070728905504
+Minnesota,Chisago County,-0.038696561675003405
+Minnesota,Clay County,-0.024405374873191096
+Minnesota,Clearwater County,-0.008267498782692728
+Minnesota,Cook County,-0.07057490117128468
+Minnesota,Cottonwood County,-0.031026371702313038
+Minnesota,Crow Wing County,-0.04396946201339852
+Minnesota,Dakota County,-0.04982456093523499
+Minnesota,Dodge County,-0.044035777055718206
+Minnesota,Douglas County,-0.03734667312796097
+Minnesota,Faribault County,-0.022431654517833244
+Minnesota,Fillmore County,-0.03177532061376703
+Minnesota,Freeborn County,-0.007028642327435802
+Minnesota,Goodhue County,-0.044128042282205404
+Minnesota,Grant County,-0.020007453957905708
+Minnesota,Hennepin County,-0.054579972904001794
+Minnesota,Houston County,-0.024856695462947997
+Minnesota,Hubbard County,-0.03398095327826106
+Minnesota,Isanti County,-0.034271000859899314
+Minnesota,Itasca County,-0.026405351046086684
+Minnesota,Jackson County,-0.01800738422104503
+Minnesota,Kanabec County,-0.016070264427580694
+Minnesota,Kandiyohi County,-0.006870736100441088
+Minnesota,Kittson County,-0.014920538692851315
+Minnesota,Koochiching County,-0.016411991599316
+Minnesota,Lac qui Parle County,-0.005832994979834694
+Minnesota,Lake County,-0.0639521356197742
+Minnesota,Lake of the Woods County,-0.017943736600326388
+Minnesota,Le Sueur County,-0.027064555826011027
+Minnesota,Lincoln County,-0.06293673747698947
+Minnesota,Lyon County,-0.0019048424929143937
+Minnesota,McLeod County,-0.042633879620555926
+Minnesota,Mahnomen County,0.0138975672872549
+Minnesota,Marshall County,-0.017955809823597957
+Minnesota,Martin County,-0.042884224361050216
+Minnesota,Meeker County,-0.038187857858386576
+Minnesota,Mille Lacs County,-0.029469111397234626
+Minnesota,Morrison County,-0.0345316595414597
+Minnesota,Mower County,-0.013721858023699601
+Minnesota,Murray County,-0.02714408004991342
+Minnesota,Nicollet County,-0.0237008548439896
+Minnesota,Nobles County,-0.010161276449637657
+Minnesota,Norman County,0.002277802954611108
+Minnesota,Olmsted County,-0.0598158640697071
+Minnesota,Otter Tail County,-0.04362537006750811
+Minnesota,Pennington County,-0.015522199278541815
+Minnesota,Pine County,-0.011008519261850369
+Minnesota,Pipestone County,-0.03431158497289638
+Minnesota,Polk County,-0.006602220355791777
+Minnesota,Pope County,-0.019748408807166884
+Minnesota,Ramsey County,-0.04004260571624002
+Minnesota,Red Lake County,-0.03675763738195381
+Minnesota,Redwood County,-0.03957423297406587
+Minnesota,Renville County,-0.011848250180630293
+Minnesota,Rice County,-0.03702766645878271
+Minnesota,Rock County,-0.05457921203528504
+Minnesota,Roseau County,-0.027511348886310294
+Minnesota,St. Louis County,-0.041260612387813506
+Minnesota,Scott County,-0.0418139021239919
+Minnesota,Sherburne County,-0.03792966778135609
+Minnesota,Sibley County,-0.037896594922052995
+Minnesota,Stearns County,-0.017788361248641416
+Minnesota,Steele County,-0.03999547189612701
+Minnesota,Stevens County,-0.010449320519935579
+Minnesota,Swift County,-0.01381140359030164
+Minnesota,Todd County,-0.012814713314350246
+Minnesota,Traverse County,-0.019159062498095014
+Minnesota,Wabasha County,-0.04180183795545339
+Minnesota,Wadena County,-0.001208371287862553
+Minnesota,Waseca County,-0.03642031660000028
+Minnesota,Washington County,-0.0572645545949223
+Minnesota,Watonwan County,0.0028285111205066937
+Minnesota,Wilkin County,-0.04992081210608185
+Minnesota,Winona County,-0.007472639302723204
+Minnesota,Wright County,-0.05251196490633164
+Minnesota,Yellow Medicine County,-0.024280940184833844
+Mississippi,Adams County,-0.0383121770036331
+Mississippi,Alcorn County,-0.011649177104877506
+Mississippi,Amite County,0.006721712712772221
+Mississippi,Attala County,-0.012866828468309693
+Mississippi,Benton County,0.0456664914033893
+Mississippi,Bolivar County,0.010066473156808087
+Mississippi,Calhoun County,0.006660639402663426
+Mississippi,Carroll County,-0.0025218879094550672
+Mississippi,Chickasaw County,0.0315214652181626
+Mississippi,Choctaw County,0.002324726089429019
+Mississippi,Claiborne County,-0.024258102980651952
+Mississippi,Clarke County,-0.0176341688971422
+Mississippi,Clay County,-0.001572770691281214
+Mississippi,Coahoma County,-0.03001252437296109
+Mississippi,Copiah County,0.01735483965839299
+Mississippi,Covington County,0.012131714248147463
+Mississippi,DeSoto County,-0.058277818304216994
+Mississippi,Forrest County,0.007477527201870587
+Mississippi,Franklin County,0.014283623533293988
+Mississippi,George County,-0.040417563317386274
+Mississippi,Greene County,-0.020936493978344017
+Mississippi,Grenada County,-0.020848577000999804
+Mississippi,Hancock County,-0.02861300082942181
+Mississippi,Harrison County,-0.02307835573894429
+Mississippi,Hinds County,-0.03817730252355733
+Mississippi,Holmes County,-0.03792155869302821
+Mississippi,Humphreys County,-0.026279817656092275
+Mississippi,Issaquena County,0.02359830474514059
+Mississippi,Itawamba County,-0.01689282860330138
+Mississippi,Jackson County,-0.007859592514723013
+Mississippi,Jasper County,-0.005746440093158202
+Mississippi,Jefferson County,-0.00811614025522761
+Mississippi,Jefferson Davis County,-0.02639467758263439
+Mississippi,Jones County,-0.014618106049858914
+Mississippi,Kemper County,0.003192762155990403
+Mississippi,Lafayette County,0.03460106662132589
+Mississippi,Lamar County,-0.04125354467976433
+Mississippi,Lauderdale County,-0.008550145458462999
+Mississippi,Lawrence County,-0.0006586586304146436
+Mississippi,Leake County,0.029000732010544095
+Mississippi,Lee County,0.003153250073810454
+Mississippi,Leflore County,-0.0300044485404653
+Mississippi,Lincoln County,0.0035218265660865167
+Mississippi,Lowndes County,-0.005029343617676103
+Mississippi,Madison County,-0.005546070637619194
+Mississippi,Marion County,-0.011855305294871998
+Mississippi,Marshall County,0.0433016537288331
+Mississippi,Monroe County,-0.008163396296989311
+Mississippi,Montgomery County,-0.00896976351155751
+Mississippi,Neshoba County,0.01720697396247678
+Mississippi,Newton County,-0.012200309382096597
+Mississippi,Noxubee County,-0.012213416456648196
+Mississippi,Oktibbeha County,0.007736579394433105
+Mississippi,Panola County,0.046034868871578705
+Mississippi,Pearl River County,-0.03550652390152814
+Mississippi,Perry County,0.013974369861545599
+Mississippi,Pike County,-0.0158409243406607
+Mississippi,Pontotoc County,-0.004806474552467799
+Mississippi,Prentiss County,0.016693351603097983
+Mississippi,Quitman County,-0.01973608471578059
+Mississippi,Rankin County,-0.04272861372066333
+Mississippi,Scott County,-0.0028491349041971092
+Mississippi,Sharkey County,-0.07252899261871981
+Mississippi,Simpson County,0.002338289467238297
+Mississippi,Smith County,-0.013776705483212248
+Mississippi,Stone County,-0.008580699672412317
+Mississippi,Sunflower County,-0.004291096082057133
+Mississippi,Tallahatchie County,-0.011238758721121705
+Mississippi,Tate County,0.032042634407911386
+Mississippi,Tippah County,0.005228601961095813
+Mississippi,Tishomingo County,-0.022619232995324923
+Mississippi,Tunica County,0.014501871100718211
+Mississippi,Union County,-0.006563047227506169
+Mississippi,Walthall County,0.014547764469131697
+Mississippi,Warren County,-0.017173695145912007
+Mississippi,Washington County,-0.010579797991798312
+Mississippi,Wayne County,0.0003734356420088125
+Mississippi,Webster County,-0.009448521784610031
+Mississippi,Wilkinson County,0.03148262428118509
+Mississippi,Winston County,0.006125568361719
+Mississippi,Yalobusha County,0.013171498695513012
+Mississippi,Yazoo County,0.027275248523751988
+Missouri,Adair County,0.013930379524757008
+Missouri,Andrew County,-0.04579995880299709
+Missouri,Atchison County,-0.04319048913052487
+Missouri,Audrain County,-0.05586854132029012
+Missouri,Barry County,-0.03276527441226801
+Missouri,Barton County,-0.05044986701854709
+Missouri,Bates County,-0.029405592410439885
+Missouri,Benton County,-0.03577398209243837
+Missouri,Bollinger County,-0.05056333257549789
+Missouri,Boone County,-0.0327247575806693
+Missouri,Buchanan County,-0.026403581850590885
+Missouri,Butler County,-0.045633629164814005
+Missouri,Caldwell County,-0.05140018344917391
+Missouri,Callaway County,-0.05075468317379528
+Missouri,Camden County,-0.04930074862581585
+Missouri,Cape Girardeau County,-0.045438431368048315
+Missouri,Carroll County,-0.06004944797971595
+Missouri,Carter County,-0.020019852906508262
+Missouri,Cass County,-0.05555242915052239
+Missouri,Cedar County,-0.02328317757105486
+Missouri,Chariton County,-0.035183061258527715
+Missouri,Christian County,-0.04575350913326143
+Missouri,Clark County,-0.032543605636278616
+Missouri,Clay County,-0.0450643344079676
+Missouri,Clinton County,-0.03155080149413991
+Missouri,Cole County,-0.054988454597031
+Missouri,Cooper County,-0.06512890468149501
+Missouri,Crawford County,-0.041026636133045746
+Missouri,Dade County,-0.058771080432923284
+Missouri,Dallas County,-0.061252540684403944
+Missouri,Daviess County,-0.02993501118329961
+Missouri,DeKalb County,-0.03248890725565573
+Missouri,Dent County,-0.04858213581354481
+Missouri,Douglas County,-0.03811170878220699
+Missouri,Dunklin County,-0.01208171535235697
+Missouri,Franklin County,-0.039317190582041306
+Missouri,Gasconade County,-0.04146036002609649
+Missouri,Gentry County,-0.05020286967140192
+Missouri,Greene County,-0.0534991160128018
+Missouri,Grundy County,-0.052390420347715516
+Missouri,Harrison County,-0.022664777957950688
+Missouri,Henry County,-0.035625261607847014
+Missouri,Hickory County,-0.021904296519291433
+Missouri,Holt County,-0.0686001284940026
+Missouri,Howard County,-0.03808161223132028
+Missouri,Howell County,-0.03422961346689729
+Missouri,Iron County,-0.013397969080528871
+Missouri,Jackson County,-0.03361150579245201
+Missouri,Jasper County,-0.05456481833946292
+Missouri,Jefferson County,-0.031662863816546705
+Missouri,Johnson County,-0.032816922739848875
+Missouri,Knox County,-0.03321688579296339
+Missouri,Laclede County,-0.04681564407993449
+Missouri,Lafayette County,-0.029166569431370415
+Missouri,Lawrence County,-0.04843118117739037
+Missouri,Lewis County,-0.017205656099807898
+Missouri,Lincoln County,-0.026689201696905307
+Missouri,Linn County,-0.027208056154685745
+Missouri,Livingston County,-0.052901429082622575
+Missouri,McDonald County,-0.038520090558578024
+Missouri,Macon County,-0.008870166153857217
+Missouri,Madison County,-0.039254442476242934
+Missouri,Maries County,-0.03024257662652602
+Missouri,Marion County,-0.03403754180626156
+Missouri,Mercer County,-0.07079875854493284
+Missouri,Miller County,-0.04433906500807566
+Missouri,Mississippi County,-0.01942822107341885
+Missouri,Moniteau County,-0.0526840788065272
+Missouri,Monroe County,-0.028713943651905327
+Missouri,Montgomery County,-0.023272656169843475
+Missouri,Morgan County,-0.044994812285167496
+Missouri,New Madrid County,-0.03588143058701271
+Missouri,Newton County,-0.04785137566701553
+Missouri,Nodaway County,-0.028527419930736264
+Missouri,Oregon County,-0.007266838765956185
+Missouri,Osage County,-0.043948734811619705
+Missouri,Ozark County,-0.04117235432380545
+Missouri,Pemiscot County,-0.016077554300176933
+Missouri,Perry County,-0.06065506620774003
+Missouri,Pettis County,-0.04781637329716082
+Missouri,Phelps County,-0.03210808792851372
+Missouri,Pike County,-0.019818033207777475
+Missouri,Platte County,-0.05933680444706631
+Missouri,Polk County,-0.03954242872404451
+Missouri,Pulaski County,-0.014853124490485425
+Missouri,Putnam County,-0.044457015810279
+Missouri,Ralls County,-0.031803679246378
+Missouri,Randolph County,-0.053750230756013095
+Missouri,Ray County,-0.023255197248344794
+Missouri,Reynolds County,-0.045659013070523946
+Missouri,Ripley County,-0.030756561663816406
+Missouri,St. Charles County,-0.06572059759039958
+Missouri,St. Clair County,-0.04609948247459833
+Missouri,Ste. Genevieve County,-0.023076682631754386
+Missouri,St. Francois County,-0.0272608700638991
+Missouri,St. Louis County,-0.054766195253304395
+Missouri,Saline County,-0.02873370510842338
+Missouri,Schuyler County,-0.031244333776606237
+Missouri,Scotland County,-0.03642076686887047
+Missouri,Scott County,-0.03656346967071661
+Missouri,Shannon County,-0.007410294942774287
+Missouri,Shelby County,-0.03330570707065944
+Missouri,Stoddard County,-0.041465342364642555
+Missouri,Stone County,-0.05765013782252887
+Missouri,Sullivan County,-0.005244148872472765
+Missouri,Taney County,-0.044127864003650485
+Missouri,Texas County,-0.029166394474807567
+Missouri,Vernon County,-0.03730382818713601
+Missouri,Warren County,-0.025501128866333433
+Missouri,Washington County,-0.033830379511587017
+Missouri,Wayne County,-0.03870382939307332
+Missouri,Webster County,-0.039980262315091164
+Missouri,Worth County,-0.012256576489288518
+Missouri,Wright County,-0.02296030329914006
+Missouri,St. Louis city,-0.045529078141827106
+Montana,Beaverhead County,-0.035266398660713016
+Montana,Big Horn County,0.015969009781448495
+Montana,Blaine County,0.037060700957616405
+Montana,Broadwater County,-0.0312671356624889
+Montana,Carbon County,-0.024424194177915193
+Montana,Carter County,-0.06963264010535603
+Montana,Cascade County,-0.03398717744461391
+Montana,Chouteau County,-0.04093461660897024
+Montana,Custer County,-0.03084143760439173
+Montana,Daniels County,9.28942014562506e-05
+Montana,Dawson County,-0.0491794049536029
+Montana,Deer Lodge County,0.006827194625461594
+Montana,Fallon County,-0.06773749209482577
+Montana,Fergus County,-0.06389587668348712
+Montana,Flathead County,-0.022104238293779777
+Montana,Gallatin County,-0.0176979705356757
+Montana,Garfield County,-0.053446668838929956
+Montana,Glacier County,0.0499385060823396
+Montana,Golden Valley County,-0.004117978903523556
+Montana,Granite County,0.00830867319012979
+Montana,Hill County,-0.014488248946321003
+Montana,Jefferson County,-0.027254268264747306
+Montana,Judith Basin County,-0.04866294056333559
+Montana,Lake County,-0.005820515080618122
+Montana,Lewis and Clark County,-0.0426428132304191
+Montana,Liberty County,-0.04402587443654732
+Montana,Lincoln County,-0.023403077283148277
+Montana,McCone County,-0.02928419579729996
+Montana,Madison County,-0.003404341081654605
+Montana,Meagher County,-0.03916664711033896
+Montana,Mineral County,-0.025912894403572417
+Montana,Missoula County,-0.03842582320487642
+Montana,Musselshell County,-0.042932752223575454
+Montana,Park County,-0.047369555212007794
+Montana,Petroleum County,-0.03594383472939228
+Montana,Phillips County,-0.07250433470539103
+Montana,Pondera County,-0.01977443681134977
+Montana,Powder River County,-0.026447237174911542
+Montana,Powell County,-0.027079605605702606
+Montana,Prairie County,-0.08524773834062266
+Montana,Ravalli County,-0.017803340566976134
+Montana,Richland County,-0.05756630994288697
+Montana,Roosevelt County,0.01406159110558279
+Montana,Rosebud County,-0.02927116296200949
+Montana,Sanders County,-0.011353648671172445
+Montana,Sheridan County,-0.04408596761783401
+Montana,Silver Bow County,0.010188300769918585
+Montana,Stillwater County,-0.019425298308480332
+Montana,Sweet Grass County,-0.0573288838345451
+Montana,Teton County,-0.043573895560917064
+Montana,Toole County,-0.02718751850469342
+Montana,Treasure County,-0.00034465761273844153
+Montana,Valley County,-0.04223168489174389
+Montana,Wheatland County,-0.0365291309930878
+Montana,Wibaux County,-0.07656277027586395
+Montana,Yellowstone County,-0.028975344966701705
+Nebraska,Adams County,-0.04502510754206057
+Nebraska,Antelope County,-0.03276665085454428
+Nebraska,Arthur County,-0.023107742255375097
+Nebraska,Banner County,-0.023081991020883652
+Nebraska,Blaine County,-0.1013096754239699
+Nebraska,Boone County,-0.06725970659538921
+Nebraska,Box Butte County,-0.06330641507125329
+Nebraska,Boyd County,-0.0682060915652925
+Nebraska,Brown County,-0.07263952379078259
+Nebraska,Buffalo County,-0.044943877874819016
+Nebraska,Burt County,-0.015081844010843004
+Nebraska,Butler County,-0.05467761456504755
+Nebraska,Cass County,-0.03968733686547282
+Nebraska,Cedar County,-0.04801241564397313
+Nebraska,Chase County,-0.043549973063290504
+Nebraska,Cherry County,-0.054474761776125924
+Nebraska,Cheyenne County,-0.03846415631745864
+Nebraska,Clay County,-0.04668497955323353
+Nebraska,Colfax County,0.016620739920556127
+Nebraska,Cuming County,-0.051336035726071316
+Nebraska,Custer County,-0.05346584735614884
+Nebraska,Dakota County,0.06441478425301062
+Nebraska,Dawes County,-0.035305206486193286
+Nebraska,Dawson County,-0.0026069139159042853
+Nebraska,Deuel County,-0.08259944097488442
+Nebraska,Dixon County,-0.018148528602276615
+Nebraska,Dodge County,-0.05553371158471171
+Nebraska,Douglas County,-0.04934018992649561
+Nebraska,Dundy County,-0.047050304807798315
+Nebraska,Fillmore County,-0.04100004530413576
+Nebraska,Franklin County,-0.03539777584999998
+Nebraska,Frontier County,-0.05054521118150884
+Nebraska,Furnas County,-0.04003695168241933
+Nebraska,Gage County,-0.03336190444438503
+Nebraska,Garden County,-0.06833197459664281
+Nebraska,Garfield County,-0.038374958262511194
+Nebraska,Gosper County,-0.035519017904835304
+Nebraska,Grant County,-0.025449566079182084
+Nebraska,Greeley County,-0.006954550875484522
+Nebraska,Hall County,-0.03080789655856153
+Nebraska,Hamilton County,-0.02995019307630148
+Nebraska,Harlan County,-0.0692877028184265
+Nebraska,Hayes County,-0.0016026824908846327
+Nebraska,Hitchcock County,-0.02173050154320827
+Nebraska,Holt County,-0.05608815200344125
+Nebraska,Hooker County,-0.04222934832766706
+Nebraska,Howard County,-0.04229884332004391
+Nebraska,Jefferson County,-0.03603355444111622
+Nebraska,Johnson County,-0.0457162165427516
+Nebraska,Kearney County,-0.06632919417087163
+Nebraska,Keith County,-0.05748991285130561
+Nebraska,Keya Paha County,-0.027822859090843644
+Nebraska,Kimball County,-0.08056107453295519
+Nebraska,Knox County,-0.02575134014552599
+Nebraska,Lancaster County,-0.025909821124797998
+Nebraska,Lincoln County,-0.054871785894999914
+Nebraska,Logan County,-0.007670503122727268
+Nebraska,Loup County,-0.053635455458053094
+Nebraska,McPherson County,-0.013642340940211273
+Nebraska,Madison County,-0.03541335904212667
+Nebraska,Merrick County,-0.03563879311486312
+Nebraska,Morrill County,-0.05128068558407067
+Nebraska,Nance County,-0.04457967010040348
+Nebraska,Nemaha County,-0.05245528436450092
+Nebraska,Nuckolls County,-0.052193444756313434
+Nebraska,Otoe County,-0.049619388337697856
+Nebraska,Pawnee County,-0.003684840492028607
+Nebraska,Perkins County,-0.059402391925926945
+Nebraska,Phelps County,-0.053755983562903065
+Nebraska,Pierce County,-0.0405168233776762
+Nebraska,Platte County,-0.04476552000838113
+Nebraska,Polk County,-0.0336229084396949
+Nebraska,Red Willow County,-0.05517337111610238
+Nebraska,Richardson County,-0.04835707538851891
+Nebraska,Rock County,-0.05287885037280454
+Nebraska,Saline County,-0.012727526598793892
+Nebraska,Sarpy County,-0.055828112018908804
+Nebraska,Saunders County,-0.0480844382973909
+Nebraska,Scotts Bluff County,-0.018400741059668435
+Nebraska,Seward County,-0.0349614474617832
+Nebraska,Sheridan County,-0.08718741133528768
+Nebraska,Sherman County,-0.034027609526209035
+Nebraska,Sioux County,-0.07318988590250003
+Nebraska,Stanton County,-0.03437019777881495
+Nebraska,Thayer County,-0.015802516092037477
+Nebraska,Thomas County,-0.06437844457851
+Nebraska,Thurston County,-0.015536128253280601
+Nebraska,Valley County,-0.05666321697516635
+Nebraska,Washington County,-0.03994851519045983
+Nebraska,Wayne County,-0.050113614939764906
+Nebraska,Webster County,-0.03326458192173992
+Nebraska,Wheeler County,-0.05873286817669815
+Nebraska,York County,-0.06460357079407236
+Nevada,Churchill County,-0.04844510056311874
+Nevada,Clark County,0.006780905711826102
+Nevada,Douglas County,-0.02655861422413569
+Nevada,Elko County,-0.04883382206467951
+Nevada,Esmeralda County,-0.07253548202397225
+Nevada,Eureka County,-0.059199991466374946
+Nevada,Humboldt County,-0.047643359383503336
+Nevada,Lander County,-0.052830046865478486
+Nevada,Lincoln County,-0.04480862296317861
+Nevada,Lyon County,-0.027392585631321964
+Nevada,Mineral County,0.041203787925641056
+Nevada,Nye County,-0.042109263522907836
+Nevada,Pershing County,-0.021349189224768417
+Nevada,Storey County,-0.021449684596407503
+Nevada,Washoe County,-0.025276655705572096
+Nevada,White Pine County,-0.07246830746103133
+Nevada,Carson City,-0.0613942590818498
+New Hampshire,Belknap County,-0.03394670548796529
+New Hampshire,Carroll County,-0.028587611429569802
+New Hampshire,Cheshire County,0.013677569906532488
+New Hampshire,Coos County,0.018389427237435585
+New Hampshire,Grafton County,-0.013910071211677394
+New Hampshire,Hillsborough County,-0.012483393681302205
+New Hampshire,Merrimack County,-0.014331266817796603
+New Hampshire,Rockingham County,-0.014863744720368402
+New Hampshire,Strafford County,-0.02874055158463891
+New Hampshire,Sullivan County,-0.017569259558908902
+New Jersey,Atlantic County,0.036669201862704004
+New Jersey,Bergen County,0.06963219333221637
+New Jersey,Burlington County,-0.03156597029339839
+New Jersey,Camden County,-0.0002036301348558034
+New Jersey,Cape May County,-0.027019910603568703
+New Jersey,Cumberland County,0.0377109229857997
+New Jersey,Essex County,0.04464950398466383
+New Jersey,Gloucester County,-0.0129650749416311
+New Jersey,Hudson County,0.1212467463706064
+New Jersey,Hunterdon County,-0.037369030191343904
+New Jersey,Mercer County,0.0010076157322340684
+New Jersey,Middlesex County,0.07959966032265159
+New Jersey,Monmouth County,0.0257267871281288
+New Jersey,Morris County,0.009247349390500398
+New Jersey,Ocean County,0.013068284302198474
+New Jersey,Passaic County,0.1335244858726804
+New Jersey,Salem County,0.0039359693249799155
+New Jersey,Somerset County,0.010065134986722207
+New Jersey,Sussex County,-0.005895247040797608
+New Jersey,Union County,0.05270322529769228
+New Jersey,Warren County,-0.014968202124476804
+New Mexico,Bernalillo County,-0.02623847474923488
+New Mexico,Catron County,-0.03354174867057319
+New Mexico,Chaves County,-0.025333613304885705
+New Mexico,Cibola County,0.010605910220775602
+New Mexico,Colfax County,-0.02973020115498412
+New Mexico,Curry County,-0.040860261899885564
+New Mexico,De Baca County,-0.02523090049919474
+New Mexico,Doña Ana County,0.025300573240680482
+New Mexico,Eddy County,-0.0199457823562999
+New Mexico,Grant County,-0.0392474726990299
+New Mexico,Guadalupe County,0.0771932659525017
+New Mexico,Harding County,0.054485870287235616
+New Mexico,Hidalgo County,0.022766060793279974
+New Mexico,Lea County,-0.04042870393355252
+New Mexico,Lincoln County,-0.039514578377365106
+New Mexico,Los Alamos County,-0.09578370112889978
+New Mexico,Luna County,0.024247367041527704
+New Mexico,McKinley County,0.08039795132485553
+New Mexico,Mora County,0.08058252948158129
+New Mexico,Otero County,-0.04690169153946783
+New Mexico,Quay County,-0.0293820464189663
+New Mexico,Rio Arriba County,0.08110503565862781
+New Mexico,Roosevelt County,-0.05712705952008812
+New Mexico,Sandoval County,-0.03445507195709191
+New Mexico,San Juan County,-0.025816603545152583
+New Mexico,San Miguel County,0.048094645215826515
+New Mexico,Santa Fe County,-0.011961669915204143
+New Mexico,Sierra County,-0.08353206424901913
+New Mexico,Socorro County,0.04173983134606821
+New Mexico,Taos County,0.012253790232569728
+New Mexico,Torrance County,-0.012756877526460764
+New Mexico,Union County,-0.10024220384423238
+New Mexico,Valencia County,0.007244301133882899
+New York,Albany County,-0.004802199045159605
+New York,Allegany County,-0.017454298613310604
+New York,Bronx County,0.1608989844672813
+New York,Broome County,-0.030020582877963903
+New York,Cattaraugus County,-0.027106199245936435
+New York,Cayuga County,-0.0228179156400264
+New York,Chautauqua County,-0.039008725269426586
+New York,Chemung County,-0.026519330773202593
+New York,Chenango County,-0.021193445547022016
+New York,Clinton County,0.013333088608245808
+New York,Columbia County,-0.0406867767888775
+New York,Cortland County,-0.015396915919600698
+New York,Delaware County,-0.04702959732962281
+New York,Dutchess County,-0.0181128207077121
+New York,Erie County,-0.009927002700776094
+New York,Essex County,-0.014989704911705905
+New York,Franklin County,0.008213483932083099
+New York,Fulton County,-0.015460667686649276
+New York,Genesee County,-0.03751362652097001
+New York,Greene County,-0.0464855990882698
+New York,Hamilton County,-0.06829887367824583
+New York,Herkimer County,-0.0006547508910871858
+New York,Jefferson County,-0.014104343716619894
+New York,Kings County,0.04792810695182437
+New York,Lewis County,-0.007940830386716724
+New York,Livingston County,-0.02764636486343791
+New York,Madison County,-0.035567897869509216
+New York,Monroe County,-0.04098049091325981
+New York,Montgomery County,0.0012725636661250206
+New York,Nassau County,0.07686852858701299
+New York,New York County,0.036589520922179986
+New York,Niagara County,-0.0076103876529655945
+New York,Oneida County,-0.0028684239068229034
+New York,Onondaga County,-0.0275453140516414
+New York,Ontario County,-0.0488983988515983
+New York,Orange County,0.021601653954757785
+New York,Orleans County,-0.015989160210373776
+New York,Oswego County,-0.020368585894841112
+New York,Otsego County,-0.0319753820118865
+New York,Putnam County,-0.0022801079239410937
+New York,Queens County,0.14595518290195877
+New York,Rensselaer County,-0.017751992863111403
+New York,Richmond County,0.08782255736987049
+New York,Rockland County,0.07520746729245231
+New York,St. Lawrence County,0.0028012717036426937
+New York,Saratoga County,-0.024656636622745698
+New York,Schenectady County,-0.011903035665870296
+New York,Schoharie County,-0.04520896902051741
+New York,Schuyler County,-0.02675111899767091
+New York,Seneca County,-0.0329089246741302
+New York,Steuben County,-0.038871429148691905
+New York,Suffolk County,0.039039333098772
+New York,Sullivan County,0.015016559120367784
+New York,Tioga County,-0.037469599919719015
+New York,Tompkins County,-0.07411710021840767
+New York,Ulster County,-0.0377698646865893
+New York,Warren County,-0.0197683946857804
+New York,Washington County,-0.003787281895229311
+New York,Wayne County,-0.025334419365793004
+New York,Westchester County,0.03959193819640111
+New York,Wyoming County,-0.033043041975437115
+New York,Yates County,-0.08463381386908009
+North Carolina,Alamance County,-0.0627428320134954
+North Carolina,Alexander County,-0.04220323746356586
+North Carolina,Alleghany County,-0.04129275630335211
+North Carolina,Anson County,0.006458682631574605
+North Carolina,Ashe County,-0.07651418092156276
+North Carolina,Avery County,-0.06306639024671074
+North Carolina,Beaufort County,-0.00799640749659325
+North Carolina,Bertie County,-0.0011228361392886244
+North Carolina,Bladen County,0.006341783246709393
+North Carolina,Brunswick County,-0.06183488310920729
+North Carolina,Buncombe County,-0.0972895947107644
+North Carolina,Burke County,-0.04939754686782927
+North Carolina,Cabarrus County,-0.0776567744676087
+North Carolina,Caldwell County,-0.04494757352492712
+North Carolina,Camden County,-0.018920561190432728
+North Carolina,Carteret County,-0.04944156108811337
+North Carolina,Caswell County,0.0001268862280600913
+North Carolina,Catawba County,-0.05087388578275409
+North Carolina,Chatham County,-0.0700477192625777
+North Carolina,Cherokee County,-0.03660615945687201
+North Carolina,Chowan County,0.006968300566900287
+North Carolina,Clay County,-0.054499890229252945
+North Carolina,Cleveland County,-0.038858147228736206
+North Carolina,Columbus County,-0.00042050673531557337
+North Carolina,Craven County,-0.042012231036427206
+North Carolina,Cumberland County,-0.028382999650088198
+North Carolina,Currituck County,-0.043293204911708794
+North Carolina,Dare County,-0.03769542883182342
+North Carolina,Davidson County,-0.0645435003373222
+North Carolina,Davie County,-0.05061392967650602
+North Carolina,Duplin County,0.007876880428000999
+North Carolina,Durham County,-0.055938330869324815
+North Carolina,Edgecombe County,-0.017337705697551914
+North Carolina,Forsyth County,-0.053114016102646794
+North Carolina,Franklin County,-0.0591467916969568
+North Carolina,Gaston County,-0.08787888997329579
+North Carolina,Gates County,0.018827867089737715
+North Carolina,Graham County,-0.02339500001814382
+North Carolina,Granville County,-0.032105023690883805
+North Carolina,Greene County,0.0015570883475068131
+North Carolina,Guilford County,-0.047498133563467104
+North Carolina,Halifax County,-0.025196058027974283
+North Carolina,Harnett County,-0.03376908563035902
+North Carolina,Haywood County,-0.07427318795352611
+North Carolina,Henderson County,-0.10239325203835131
+North Carolina,Hertford County,0.011983627149328324
+North Carolina,Hoke County,-0.011115898909427109
+North Carolina,Hyde County,0.011259578988752489
+North Carolina,Iredell County,-0.057770604964601735
+North Carolina,Jackson County,-0.0490052046984258
+North Carolina,Johnston County,-0.08852548367131771
+North Carolina,Jones County,0.000454773191715524
+North Carolina,Lee County,-0.0347698271332719
+North Carolina,Lenoir County,-0.027201690915082406
+North Carolina,Lincoln County,-0.06259774721372358
+North Carolina,McDowell County,-0.048906594154465854
+North Carolina,Macon County,-0.06494717631573121
+North Carolina,Madison County,-0.06092617692564681
+North Carolina,Martin County,-0.0067433841037874
+North Carolina,Mecklenburg County,-0.03854566911005175
+North Carolina,Mitchell County,-0.07943253971233338
+North Carolina,Montgomery County,5.493053849747742e-05
+North Carolina,Moore County,-0.03920570494182868
+North Carolina,Nash County,-0.0404754341131762
+North Carolina,New Hanover County,-0.045362300089330704
+North Carolina,Northampton County,0.00031217213643250363
+North Carolina,Onslow County,-0.003036123938618407
+North Carolina,Orange County,-0.06016012352541539
+North Carolina,Pamlico County,-0.01962030990743513
+North Carolina,Pasquotank County,-0.008556571623278102
+North Carolina,Pender County,-0.010161710073300023
+North Carolina,Perquimans County,0.011296463308721805
+North Carolina,Person County,-0.038860846457296205
+North Carolina,Pitt County,-0.025692615470731296
+North Carolina,Polk County,-0.06530454188092649
+North Carolina,Randolph County,-0.05105643974575097
+North Carolina,Richmond County,0.000240855526237288
+North Carolina,Robeson County,0.030185248075010912
+North Carolina,Rockingham County,-0.021541319252538493
+North Carolina,Rowan County,-0.0579522301036377
+North Carolina,Rutherford County,-0.03994274709601059
+North Carolina,Sampson County,0.012247749678834713
+North Carolina,Scotland County,-0.010500643020980902
+North Carolina,Stanly County,-0.06249122354023967
+North Carolina,Stokes County,-0.04241840503976718
+North Carolina,Surry County,-0.040856402981571616
+North Carolina,Swain County,-0.018718923489772027
+North Carolina,Transylvania County,-0.09513383563702821
+North Carolina,Tyrrell County,-0.002617438950650003
+North Carolina,Union County,-0.04926709764948112
+North Carolina,Vance County,-0.0015138188723863855
+North Carolina,Wake County,-0.05132103551855138
+North Carolina,Warren County,0.006979613949845975
+North Carolina,Washington County,-0.0235842083135948
+North Carolina,Watauga County,-0.037345921902276105
+North Carolina,Wayne County,-0.013390806054219204
+North Carolina,Wilkes County,-0.03007884900167629
+North Carolina,Wilson County,-0.0355790875206026
+North Carolina,Yadkin County,-0.04704823798827101
+North Carolina,Yancey County,-0.053159669977839774
+North Dakota,Adams County,-0.002933698341975821
+North Dakota,Barnes County,-0.02127372383702425
+North Dakota,Benson County,-0.014548857345378613
+North Dakota,Billings County,-0.1002226890401991
+North Dakota,Bottineau County,-0.012542380195498748
+North Dakota,Bowman County,-0.03408051750204749
+North Dakota,Burke County,-0.061190259611085096
+North Dakota,Burleigh County,-0.029918841000457608
+North Dakota,Cass County,-0.0029705542562574044
+North Dakota,Cavalier County,-0.07718113096851653
+North Dakota,Dickey County,-0.0058376278434128515
+North Dakota,Divide County,-0.0384104125219899
+North Dakota,Dunn County,-0.05607824688590107
+North Dakota,Eddy County,0.020710288339173488
+North Dakota,Emmons County,-0.031664620550667044
+North Dakota,Foster County,-0.03094334595160969
+North Dakota,Golden Valley County,-0.03900876810027348
+North Dakota,Grand Forks County,-0.011145012893257894
+North Dakota,Grant County,-0.07167094857537465
+North Dakota,Griggs County,-0.02442267857373548
+North Dakota,Hettinger County,-0.04936302823436306
+North Dakota,Kidder County,-0.0949220660521804
+North Dakota,LaMoure County,-0.013730463866400588
+North Dakota,Logan County,-0.04823396188946788
+North Dakota,McHenry County,-0.022138411813670655
+North Dakota,McIntosh County,-0.019582190749308392
+North Dakota,McKenzie County,-0.04094130489851738
+North Dakota,McLean County,-0.015198526288505432
+North Dakota,Mercer County,-0.04455614961491844
+North Dakota,Morton County,-0.026360278364674528
+North Dakota,Mountrail County,-0.005341270489234995
+North Dakota,Nelson County,-0.053063798003923246
+North Dakota,Oliver County,-0.10589842316416537
+North Dakota,Pembina County,-0.029918474017473662
+North Dakota,Pierce County,-0.032545536556113086
+North Dakota,Ramsey County,-0.018390167291831405
+North Dakota,Ransom County,0.02839064228997601
+North Dakota,Renville County,-0.024392892934720523
+North Dakota,Richland County,-0.009893977196348325
+North Dakota,Rolette County,-0.019156510497998103
+North Dakota,Sargent County,0.011604859196113426
+North Dakota,Sheridan County,-0.05849406066149293
+North Dakota,Sioux County,0.011552166459399216
+North Dakota,Slope County,-0.02557759539505028
+North Dakota,Stark County,-0.04307914007132435
+North Dakota,Steele County,-0.045637020801712
+North Dakota,Stutsman County,-0.04793156461225839
+North Dakota,Towner County,-0.040608651120500494
+North Dakota,Traill County,0.007232690262944208
+North Dakota,Walsh County,-0.024913268894448726
+North Dakota,Ward County,-0.03557661797012929
+North Dakota,Wells County,-0.042699728237859225
+North Dakota,Williams County,-0.04682861629151952
+Ohio,Adams County,-0.0381421651338702
+Ohio,Allen County,-0.014455417960252792
+Ohio,Ashland County,-0.048104056090776726
+Ohio,Ashtabula County,-0.011942909371922716
+Ohio,Athens County,-0.017832460429751007
+Ohio,Auglaize County,-0.04106095674902882
+Ohio,Belmont County,-0.023270146817412185
+Ohio,Brown County,-0.018911659039641482
+Ohio,Butler County,-0.03745890466502891
+Ohio,Carroll County,-0.04036907822618824
+Ohio,Champaign County,-0.029793947492449124
+Ohio,Clark County,0.001999379954781777
+Ohio,Clermont County,-0.06894882003941949
+Ohio,Clinton County,-0.039822958056123625
+Ohio,Columbiana County,-0.018984270685082405
+Ohio,Coshocton County,-0.02819984390177821
+Ohio,Crawford County,-0.03938559030163663
+Ohio,Cuyahoga County,-0.0338784898429762
+Ohio,Darke County,-0.04323844588540732
+Ohio,Defiance County,-0.02588520624456181
+Ohio,Delaware County,-0.0628596213543775
+Ohio,Erie County,-0.03462350588465321
+Ohio,Fairfield County,-0.05485634721927571
+Ohio,Fayette County,-0.024113934671131043
+Ohio,Franklin County,-0.030529522140742393
+Ohio,Fulton County,-0.034626022577259
+Ohio,Gallia County,-0.02114812007784267
+Ohio,Geauga County,-0.050191014944883705
+Ohio,Greene County,-0.0572930866883318
+Ohio,Guernsey County,-0.024132171165412886
+Ohio,Hamilton County,-0.050575314108081304
+Ohio,Hancock County,-0.051302474058656844
+Ohio,Hardin County,-0.03363584931354974
+Ohio,Harrison County,-0.03395023816605475
+Ohio,Henry County,-0.02773006955813373
+Ohio,Highland County,-0.03062140342048486
+Ohio,Hocking County,-0.04112770724300052
+Ohio,Holmes County,-0.04871821755976874
+Ohio,Huron County,-0.03166264898836241
+Ohio,Jackson County,-0.02027331592955911
+Ohio,Jefferson County,-0.005265920601689789
+Ohio,Knox County,-0.04918140998968973
+Ohio,Lake County,-0.053048124060086216
+Ohio,Lawrence County,-0.010727528049019663
+Ohio,Licking County,-0.041107027540000896
+Ohio,Logan County,-0.050712469438428276
+Ohio,Lorain County,-0.027686500201904107
+Ohio,Lucas County,-0.01823854172782552
+Ohio,Madison County,-0.03360198712492091
+Ohio,Mahoning County,0.0147771385081749
+Ohio,Marion County,-0.03327335630487688
+Ohio,Medina County,-0.04675808937563272
+Ohio,Meigs County,-0.022509815143917644
+Ohio,Mercer County,-0.042286638404517796
+Ohio,Miami County,-0.052521616179755704
+Ohio,Monroe County,-0.0025430638596479205
+Ohio,Montgomery County,-0.042655167207548604
+Ohio,Morgan County,-0.012701007925455365
+Ohio,Morrow County,-0.04641006380184093
+Ohio,Muskingum County,-0.014016299767475537
+Ohio,Noble County,-0.03933497222158594
+Ohio,Ottawa County,-0.04378652949057121
+Ohio,Paulding County,-0.012821831395663674
+Ohio,Perry County,-0.010578011492875516
+Ohio,Pickaway County,-0.04505833560680783
+Ohio,Pike County,-0.01075668693499593
+Ohio,Portage County,-0.029687795695243185
+Ohio,Preble County,-0.04360471876272637
+Ohio,Putnam County,-0.03641277997810627
+Ohio,Richland County,-0.03439379824535094
+Ohio,Ross County,-0.018980063982117712
+Ohio,Sandusky County,-0.027697243745501587
+Ohio,Scioto County,-0.002845066582890299
+Ohio,Seneca County,-0.02701692909225062
+Ohio,Shelby County,-0.044024508174874855
+Ohio,Stark County,-0.026430448710467208
+Ohio,Summit County,-0.03455951750534661
+Ohio,Trumbull County,0.002020527261813912
+Ohio,Tuscarawas County,-0.026725148871804105
+Ohio,Union County,-0.07889489439046721
+Ohio,Van Wert County,-0.04896760215188062
+Ohio,Vinton County,-0.021806726680069055
+Ohio,Warren County,-0.05316853894693502
+Ohio,Washington County,-0.030801053521529786
+Ohio,Wayne County,-0.0380001301075224
+Ohio,Williams County,-0.0395464396874774
+Ohio,Wood County,-0.0348899945419429
+Ohio,Wyandot County,-0.05122199350961659
+Oklahoma,Adair County,-0.021038503039700063
+Oklahoma,Alfalfa County,-0.0660773612709647
+Oklahoma,Atoka County,-0.04822857368844785
+Oklahoma,Beaver County,-0.03870161547895529
+Oklahoma,Beckham County,-0.07911631402199143
+Oklahoma,Blaine County,-0.0585049836541402
+Oklahoma,Bryan County,-0.03949696865447733
+Oklahoma,Caddo County,-0.02997385330197172
+Oklahoma,Canadian County,-0.08932545668987818
+Oklahoma,Carter County,-0.038113609524107084
+Oklahoma,Cherokee County,-0.027685700272300495
+Oklahoma,Choctaw County,-0.02623120466281187
+Oklahoma,Cimarron County,-0.0650898579614369
+Oklahoma,Cleveland County,-0.051922180859640815
+Oklahoma,Coal County,-0.027507221000042714
+Oklahoma,Comanche County,-0.027945256532950602
+Oklahoma,Cotton County,-0.06229741578103959
+Oklahoma,Craig County,-0.05293449765777808
+Oklahoma,Creek County,-0.050952287801222684
+Oklahoma,Custer County,-0.06025991788568802
+Oklahoma,Delaware County,-0.041493899408254264
+Oklahoma,Dewey County,-0.06870848637986632
+Oklahoma,Ellis County,-0.10912907893826845
+Oklahoma,Garfield County,-0.06003881660892413
+Oklahoma,Garvin County,-0.04186486689322694
+Oklahoma,Grady County,-0.05690065061128219
+Oklahoma,Grant County,-0.08993659515130542
+Oklahoma,Greer County,-0.050228077515071023
+Oklahoma,Harmon County,-0.05455020638277047
+Oklahoma,Harper County,-0.07774174983635623
+Oklahoma,Haskell County,-0.03839374693646841
+Oklahoma,Hughes County,-0.043762443198365364
+Oklahoma,Jackson County,-0.054935619973636995
+Oklahoma,Jefferson County,-0.05991051997446223
+Oklahoma,Johnston County,-0.03951057534148389
+Oklahoma,Kay County,-0.07669874217037065
+Oklahoma,Kingfisher County,-0.06833756965555554
+Oklahoma,Kiowa County,-0.05343435701030447
+Oklahoma,Latimer County,-0.034159682592864005
+Oklahoma,Le Flore County,-0.04614421393328255
+Oklahoma,Lincoln County,-0.05945770785572685
+Oklahoma,Logan County,-0.040431230431475396
+Oklahoma,Love County,-0.03459944645590557
+Oklahoma,McClain County,-0.06296146811302988
+Oklahoma,McCurtain County,-0.03678031098334239
+Oklahoma,McIntosh County,-0.02990474896657469
+Oklahoma,Major County,-0.06406929436358572
+Oklahoma,Marshall County,-0.05132380051491897
+Oklahoma,Mayes County,-0.037113918227616616
+Oklahoma,Murray County,-0.03350274932791736
+Oklahoma,Muskogee County,-0.023597835345373852
+Oklahoma,Noble County,-0.05734004967627088
+Oklahoma,Nowata County,-0.050794109344130145
+Oklahoma,Okfuskee County,-0.03763682335407731
+Oklahoma,Oklahoma County,-0.0548992794887128
+Oklahoma,Okmulgee County,-0.004878799323891625
+Oklahoma,Osage County,-0.041858821029607474
+Oklahoma,Ottawa County,-0.03774771550458894
+Oklahoma,Pawnee County,-0.04703707769579729
+Oklahoma,Payne County,-0.04066217075761802
+Oklahoma,Pittsburg County,-0.0329100266549644
+Oklahoma,Pontotoc County,-0.03089093423793926
+Oklahoma,Pottawatomie County,-0.04604238244748188
+Oklahoma,Pushmataha County,-0.04186530202649391
+Oklahoma,Roger Mills County,-0.05609393250121403
+Oklahoma,Rogers County,-0.059004940164070596
+Oklahoma,Seminole County,-0.026248962441773216
+Oklahoma,Sequoyah County,-0.035385475843607794
+Oklahoma,Stephens County,-0.07465746723770589
+Oklahoma,Texas County,-0.03715052717569295
+Oklahoma,Tillman County,-0.012005388450818388
+Oklahoma,Tulsa County,-0.06399234109770471
+Oklahoma,Wagoner County,-0.06373182497806557
+Oklahoma,Washington County,-0.0641072430570257
+Oklahoma,Washita County,-0.04271276467849189
+Oklahoma,Woods County,-0.06998466620828397
+Oklahoma,Woodward County,-0.06058806492355634
+Oregon,Baker County,-0.07266836274839622
+Oregon,Benton County,-0.05964803175240874
+Oregon,Clackamas County,-0.04693861448033809
+Oregon,Clatsop County,-0.061221016117711996
+Oregon,Columbia County,-0.02437959289384821
+Oregon,Coos County,-0.06621007102001522
+Oregon,Crook County,-0.03699980849839324
+Oregon,Curry County,-0.06186522629000621
+Oregon,Deschutes County,-0.0789821798465518
+Oregon,Douglas County,-0.058953098245769164
+Oregon,Gilliam County,-0.0384677008766689
+Oregon,Grant County,-0.0256526152321796
+Oregon,Harney County,-0.0425835279889763
+Oregon,Hood River County,-0.050387351856169604
+Oregon,Jackson County,-0.03059820985600941
+Oregon,Jefferson County,0.006711330173389374
+Oregon,Josephine County,-0.027266810519684603
+Oregon,Klamath County,-0.04761373602434521
+Oregon,Lake County,-0.021168986986571603
+Oregon,Lane County,-0.04875950221879141
+Oregon,Lincoln County,-0.0843640569984877
+Oregon,Linn County,-0.0501788857822677
+Oregon,Malheur County,-0.03423374724066408
+Oregon,Marion County,-0.029092270030105602
+Oregon,Morrow County,-0.009484894118401144
+Oregon,Multnomah County,-0.06851603690977054
+Oregon,Polk County,-0.0392735633447195
+Oregon,Sherman County,-0.038163171164191156
+Oregon,Tillamook County,-0.0639361158944577
+Oregon,Umatilla County,-0.002623114064274401
+Oregon,Union County,-0.059034848546015595
+Oregon,Wallowa County,-0.05308790439175021
+Oregon,Wasco County,-0.034093275223202005
+Oregon,Washington County,-0.053955718285383425
+Oregon,Wheeler County,-0.10186296236048586
+Oregon,Yamhill County,-0.039455327430633
+Pennsylvania,Adams County,-0.06452880444632608
+Pennsylvania,Allegheny County,-0.0594974418637757
+Pennsylvania,Armstrong County,-0.05180225953678447
+Pennsylvania,Beaver County,-0.030068114450039207
+Pennsylvania,Bedford County,-0.05089912614210673
+Pennsylvania,Berks County,-0.020563038123529193
+Pennsylvania,Blair County,-0.060923133774122284
+Pennsylvania,Bradford County,-0.030622477085286814
+Pennsylvania,Bucks County,-0.015897502513422306
+Pennsylvania,Butler County,-0.06356645630190783
+Pennsylvania,Cambria County,-0.03697604914617336
+Pennsylvania,Cameron County,-0.02460082096385391
+Pennsylvania,Carbon County,-0.0328143022580763
+Pennsylvania,Centre County,-0.0412152929886998
+Pennsylvania,Chester County,-0.03456527490704661
+Pennsylvania,Clarion County,-0.037486404502418524
+Pennsylvania,Clearfield County,-0.03956781650722285
+Pennsylvania,Clinton County,-0.01481517942068189
+Pennsylvania,Columbia County,-0.05702650179571339
+Pennsylvania,Crawford County,-0.040130295037653585
+Pennsylvania,Cumberland County,-0.071677630568519
+Pennsylvania,Dauphin County,-0.034274269323787895
+Pennsylvania,Delaware County,-0.030641415205793915
+Pennsylvania,Elk County,-0.041118377787556115
+Pennsylvania,Erie County,-0.0398135072118643
+Pennsylvania,Fayette County,-0.01539895694982435
+Pennsylvania,Forest County,-0.05199948152178652
+Pennsylvania,Franklin County,-0.061574915278072795
+Pennsylvania,Fulton County,-0.05378027309286043
+Pennsylvania,Greene County,-0.04607232209879697
+Pennsylvania,Huntingdon County,-0.040641061111423016
+Pennsylvania,Indiana County,-0.044384346608208225
+Pennsylvania,Jefferson County,-0.06405149536766835
+Pennsylvania,Juniata County,-0.060601187462903494
+Pennsylvania,Lackawanna County,-0.004589068432412906
+Pennsylvania,Lancaster County,-0.05854021601633391
+Pennsylvania,Lawrence County,-0.01831810033894482
+Pennsylvania,Lebanon County,-0.0581300779789069
+Pennsylvania,Lehigh County,-0.011369176382839609
+Pennsylvania,Luzerne County,-0.012514112284303297
+Pennsylvania,Lycoming County,-0.05912680181079272
+Pennsylvania,McKean County,-0.05017015618358789
+Pennsylvania,Mercer County,-0.018942933044699795
+Pennsylvania,Mifflin County,-0.05755807005968677
+Pennsylvania,Monroe County,0.011054029885195799
+Pennsylvania,Montgomery County,-0.02568239059716354
+Pennsylvania,Montour County,-0.06142885698848802
+Pennsylvania,Northampton County,-0.0354614206716323
+Pennsylvania,Northumberland County,-0.046034904391627496
+Pennsylvania,Perry County,-0.06787065981362705
+Pennsylvania,Philadelphia County,-0.013099065570039092
+Pennsylvania,Pike County,-0.010179843686137613
+Pennsylvania,Potter County,-0.04573325604805106
+Pennsylvania,Schuylkill County,-0.03839633709604573
+Pennsylvania,Snyder County,-0.06407489069021538
+Pennsylvania,Somerset County,-0.05073998153065612
+Pennsylvania,Sullivan County,-0.06376048922471528
+Pennsylvania,Susquehanna County,-0.025533423223955076
+Pennsylvania,Tioga County,-0.05470274642315759
+Pennsylvania,Union County,-0.0692409196553169
+Pennsylvania,Venango County,-0.0532702443335783
+Pennsylvania,Warren County,-0.06362536718825523
+Pennsylvania,Washington County,-0.03316585960584342
+Pennsylvania,Wayne County,-0.025778517161958003
+Pennsylvania,Westmoreland County,-0.05925915868719572
+Pennsylvania,Wyoming County,-0.044341032890062415
+Pennsylvania,York County,-0.05357932378774369
+Rhode Island,Bristol County,-0.031664198712097136
+Rhode Island,Kent County,-0.0028141965076862036
+Rhode Island,Newport County,-0.01704991558244867
+Rhode Island,Providence County,0.024411379507424807
+Rhode Island,Washington County,-0.0168355534824135
+South Carolina,Abbeville County,0.032845420698105976
+South Carolina,Aiken County,-0.02816929009244809
+South Carolina,Allendale County,0.016438970427426536
+South Carolina,Anderson County,-0.007243088737919123
+South Carolina,Bamberg County,0.0327429168054712
+South Carolina,Barnwell County,0.0201638744569978
+South Carolina,Beaufort County,-0.015477891993874116
+South Carolina,Berkeley County,-0.014216450190382285
+South Carolina,Calhoun County,0.034773868963880294
+South Carolina,Charleston County,0.011704902606083492
+South Carolina,Cherokee County,0.015556856748477066
+South Carolina,Chester County,0.0025957937387070945
+South Carolina,Chesterfield County,0.015472650742864968
+South Carolina,Clarendon County,0.055578919988796896
+South Carolina,Colleton County,0.025944111791526295
+South Carolina,Darlington County,0.0230722881692714
+South Carolina,Dillon County,0.03679628809558559
+South Carolina,Dorchester County,-0.01911738364444801
+South Carolina,Edgefield County,0.015228457096334969
+South Carolina,Fairfield County,0.03436562194423631
+South Carolina,Florence County,-0.0027697937497639102
+South Carolina,Georgetown County,0.007352295823363109
+South Carolina,Greenville County,-0.020382880229398714
+South Carolina,Greenwood County,0.0016815722772765829
+South Carolina,Hampton County,0.027875253889101295
+South Carolina,Horry County,-0.0067147252879317665
+South Carolina,Jasper County,0.043376470685777296
+South Carolina,Kershaw County,-0.009308205421855509
+South Carolina,Lancaster County,-0.040883892726029825
+South Carolina,Laurens County,0.025154844931500497
+South Carolina,Lee County,0.038199399284173374
+South Carolina,Lexington County,-0.026830399202954103
+South Carolina,McCormick County,0.0630068370973398
+South Carolina,Marion County,0.049259545617294204
+South Carolina,Marlboro County,0.024722049493577106
+South Carolina,Newberry County,0.04230206226856492
+South Carolina,Oconee County,-0.01912844862879065
+South Carolina,Orangeburg County,0.026233352666623078
+South Carolina,Pickens County,-0.04223737125998622
+South Carolina,Richland County,-0.02315099433429113
+South Carolina,Saluda County,0.033015896094138464
+South Carolina,Spartanburg County,0.002524026790182321
+South Carolina,Sumter County,0.02107251146831829
+South Carolina,Union County,0.021558653121518223
+South Carolina,Williamsburg County,0.02016650054223007
+South Carolina,York County,-0.0342042823034063
+South Dakota,Aurora County,-0.042251630788137484
+South Dakota,Beadle County,-0.04112780805730332
+South Dakota,Bennett County,0.010658642279381902
+South Dakota,Bon Homme County,-0.050524618595822746
+South Dakota,Brookings County,-0.016302806781651302
+South Dakota,Brown County,-0.022605263117805835
+South Dakota,Brule County,-0.06866045927043368
+South Dakota,Buffalo County,-0.025097542104680792
+South Dakota,Butte County,-0.035368030438595544
+South Dakota,Campbell County,-0.08109032258703935
+South Dakota,Charles Mix County,0.005179720330225401
+South Dakota,Clark County,-0.041370866204197776
+South Dakota,Clay County,-0.0157648578743209
+South Dakota,Codington County,-0.04172992654015728
+South Dakota,Corson County,0.039101770338838604
+South Dakota,Custer County,-0.026906391359840798
+South Dakota,Davison County,-0.03354495706869931
+South Dakota,Day County,-0.03726663232322208
+South Dakota,Deuel County,-0.006821122701100801
+South Dakota,Dewey County,-0.014688326107640093
+South Dakota,Douglas County,-0.07008470323267108
+South Dakota,Edmunds County,-0.01755082053397289
+South Dakota,Fall River County,-0.019394061226962522
+South Dakota,Faulk County,-0.05623953198554338
+South Dakota,Grant County,-0.02349273809534469
+South Dakota,Gregory County,-0.04153820366964672
+South Dakota,Haakon County,-0.07131304996316329
+South Dakota,Hamlin County,-0.015453991776428089
+South Dakota,Hand County,-0.06461057207960291
+South Dakota,Hanson County,0.01438965102042239
+South Dakota,Harding County,-0.059200763879880325
+South Dakota,Hughes County,-0.05366173249059775
+South Dakota,Hutchinson County,-0.060677094899857675
+South Dakota,Hyde County,-0.11357438948866655
+South Dakota,Jackson County,-0.04955521109766936
+South Dakota,Jerauld County,-0.07627548258257749
+South Dakota,Jones County,0.01664881695619219
+South Dakota,Kingsbury County,-0.012054120246612565
+South Dakota,Lake County,-0.023327566014532897
+South Dakota,Lawrence County,-0.051833230896736304
+South Dakota,Lincoln County,-0.03121978349196647
+South Dakota,Lyman County,0.010479763627743943
+South Dakota,McCook County,-0.015422178857997682
+South Dakota,McPherson County,-0.012586770870571196
+South Dakota,Marshall County,-0.01744333815872029
+South Dakota,Meade County,-0.033614903518146
+South Dakota,Mellette County,-0.05540533217095031
+South Dakota,Miner County,-0.0011867244255763243
+South Dakota,Minnehaha County,-0.028538016101991
+South Dakota,Moody County,0.017398892242732306
+South Dakota,Oglala Lakota County,0.025104346945558464
+South Dakota,Pennington County,-0.04737614514613275
+South Dakota,Perkins County,-0.0564344997978809
+South Dakota,Potter County,-0.07026580023534207
+South Dakota,Roberts County,0.03580136926361471
+South Dakota,Sanborn County,-0.054427938359921935
+South Dakota,Spink County,-0.020132712810759124
+South Dakota,Stanley County,-0.06517549702981179
+South Dakota,Sully County,-0.03390510939814856
+South Dakota,Todd County,-0.001493725137076518
+South Dakota,Tripp County,-0.045343515889669284
+South Dakota,Turner County,-0.01991087601500935
+South Dakota,Union County,-0.016981145847167756
+South Dakota,Walworth County,-0.011774640747489518
+South Dakota,Yankton County,-0.040272052542911274
+South Dakota,Ziebach County,0.0527602007069132
+Tennessee,Anderson County,-0.024845247718652097
+Tennessee,Bedford County,0.0007898669743900411
+Tennessee,Benton County,-0.001169125712258856
+Tennessee,Bledsoe County,-0.007627586358806504
+Tennessee,Blount County,-0.025116167969341574
+Tennessee,Bradley County,-0.024616806927606982
+Tennessee,Campbell County,-0.026527572575908154
+Tennessee,Cannon County,0.0016363684276398671
+Tennessee,Carroll County,-0.0030976735773441955
+Tennessee,Carter County,-0.04282529009543051
+Tennessee,Cheatham County,-0.04173271230812581
+Tennessee,Chester County,-0.00969295852864821
+Tennessee,Claiborne County,-0.008106703191083253
+Tennessee,Clay County,0.03541350814946592
+Tennessee,Cocke County,-0.025922382373178288
+Tennessee,Coffee County,-0.011063203637484309
+Tennessee,Crockett County,-0.01126981544095701
+Tennessee,Cumberland County,-0.0426998724065048
+Tennessee,Davidson County,-0.01359335968796932
+Tennessee,Decatur County,-0.003819785584527835
+Tennessee,DeKalb County,-0.011390552929924358
+Tennessee,Dickson County,-0.015400159295464622
+Tennessee,Dyer County,-0.013355254770960279
+Tennessee,Fayette County,-0.013780753363288767
+Tennessee,Fentress County,-0.01580978451083742
+Tennessee,Franklin County,-0.005663371221143132
+Tennessee,Gibson County,-0.010480955432024708
+Tennessee,Giles County,-0.0014903512666529783
+Tennessee,Grainger County,-0.024244387586956517
+Tennessee,Greene County,-0.010423648472722091
+Tennessee,Grundy County,-0.01869684058445381
+Tennessee,Hamblen County,-0.011739385864486251
+Tennessee,Hamilton County,-0.026863182347371103
+Tennessee,Hancock County,-0.02811826943159451
+Tennessee,Hardeman County,0.023680869994087805
+Tennessee,Hardin County,-0.02485122527401412
+Tennessee,Hawkins County,-0.029602366559211835
+Tennessee,Haywood County,0.025775398358153803
+Tennessee,Henderson County,-0.02232252095883397
+Tennessee,Henry County,-0.01813343662374295
+Tennessee,Hickman County,-0.0035796065885594364
+Tennessee,Houston County,0.02014433354313533
+Tennessee,Humphreys County,0.0020478915784784557
+Tennessee,Jackson County,0.003939681885567647
+Tennessee,Jefferson County,-0.01140797840917257
+Tennessee,Johnson County,-0.03651352615842335
+Tennessee,Knox County,-0.015394554030082025
+Tennessee,Lake County,0.013412432556547227
+Tennessee,Lauderdale County,0.03329243458067582
+Tennessee,Lawrence County,-0.01829179699105249
+Tennessee,Lewis County,-0.01140517633811916
+Tennessee,Lincoln County,-0.013765007652169092
+Tennessee,Loudon County,-0.03350871555656049
+Tennessee,McMinn County,-0.023625614076987322
+Tennessee,McNairy County,-0.010244836227056242
+Tennessee,Macon County,-0.032662052164241284
+Tennessee,Madison County,-0.0077739254440059025
+Tennessee,Marion County,-0.011299487511650386
+Tennessee,Marshall County,0.005763911861770221
+Tennessee,Maury County,0.020233231336156565
+Tennessee,Meigs County,-0.010640232296222296
+Tennessee,Monroe County,-0.018122173257404117
+Tennessee,Montgomery County,-0.0027677025812135048
+Tennessee,Moore County,-0.025429536265221542
+Tennessee,Morgan County,-0.016301653196103383
+Tennessee,Obion County,-0.0177109476086596
+Tennessee,Overton County,-0.004303562761671931
+Tennessee,Perry County,0.004061254009838533
+Tennessee,Pickett County,-0.03215279024449008
+Tennessee,Polk County,-0.01303527603503879
+Tennessee,Putnam County,-0.02018337807313697
+Tennessee,Rhea County,-0.028046460875733648
+Tennessee,Roane County,-0.0242705624856428
+Tennessee,Robertson County,-0.021840319816507525
+Tennessee,Rutherford County,0.0034984844930392167
+Tennessee,Scott County,-0.03757007641981197
+Tennessee,Sequatchie County,-0.025911768930532875
+Tennessee,Sevier County,-0.024632902387171696
+Tennessee,Shelby County,-0.009747259768713823
+Tennessee,Smith County,-0.0006246649522849146
+Tennessee,Stewart County,-0.012109695756947036
+Tennessee,Sullivan County,-0.029585948156369224
+Tennessee,Sumner County,-0.028305310402346184
+Tennessee,Tipton County,-0.01660787641584871
+Tennessee,Trousdale County,0.04716423851403928
+Tennessee,Unicoi County,-0.04007162741271891
+Tennessee,Union County,-0.03263456144519633
+Tennessee,Van Buren County,-0.003964900536682914
+Tennessee,Warren County,0.005481325691967909
+Tennessee,Washington County,-0.02792294662376582
+Tennessee,Wayne County,-0.03724599754948027
+Tennessee,Weakley County,-0.013875111055267453
+Tennessee,White County,-0.021807806500932225
+Tennessee,Williamson County,0.002386106735658533
+Tennessee,Wilson County,-0.03681952555832807
+Texas,Anderson County,-0.022476104169642575
+Texas,Andrews County,-0.032477149867228994
+Texas,Angelina County,-0.0010866444497439898
+Texas,Aransas County,-0.017696569985083233
+Texas,Archer County,-0.07053125289016798
+Texas,Armstrong County,-0.06527610943200718
+Texas,Atascosa County,0.03263923193802026
+Texas,Austin County,-0.017261002344463205
+Texas,Bailey County,-0.0005535044373193299
+Texas,Bandera County,-0.035816332994368316
+Texas,Bastrop County,-0.01413911524471459
+Texas,Baylor County,-0.06000936348553981
+Texas,Bee County,0.04986113928204472
+Texas,Bell County,0.016482267708818985
+Texas,Bexar County,0.023974546370599203
+Texas,Blanco County,-0.009824492443009591
+Texas,Borden County,-0.06153447829484221
+Texas,Bosque County,-0.03439052409670457
+Texas,Bowie County,-0.0011766703247462762
+Texas,Brazoria County,-0.04546550139214972
+Texas,Brazos County,0.04493199730290179
+Texas,Brewster County,0.023377635797663804
+Texas,Briscoe County,-0.035803782524082395
+Texas,Brooks County,0.03344846875829069
+Texas,Brown County,-0.04684801847783032
+Texas,Burleson County,-0.007554605294496086
+Texas,Burnet County,-0.034419312678482694
+Texas,Caldwell County,-0.0069561263354192965
+Texas,Calhoun County,0.016679736845318593
+Texas,Callahan County,-0.057133462391417866
+Texas,Cameron County,0.1292342842149497
+Texas,Camp County,0.03455044564467746
+Texas,Carson County,-0.04329505206492673
+Texas,Cass County,0.004878585870017382
+Texas,Castro County,-0.023874881221990718
+Texas,Chambers County,-0.02148542155744665
+Texas,Cherokee County,0.008037787591281875
+Texas,Childress County,-0.01637673870126294
+Texas,Clay County,-0.03991683107346772
+Texas,Cochran County,-0.035062949422228484
+Texas,Coke County,-0.05582277893325788
+Texas,Coleman County,-0.043545584865583076
+Texas,Collin County,0.0076372920502560115
+Texas,Collingsworth County,-0.018379561690753776
+Texas,Colorado County,0.005079224636005908
+Texas,Comal County,-0.03206009706733298
+Texas,Comanche County,-0.030507991126232203
+Texas,Concho County,-0.0006886391710977935
+Texas,Cooke County,-0.04390065876545962
+Texas,Coryell County,0.011322185602768486
+Texas,Cottle County,0.019092445654871948
+Texas,Crane County,-0.0022564281680507725
+Texas,Crockett County,-0.07777435844346708
+Texas,Crosby County,0.007943619275883884
+Texas,Culberson County,0.1352366790274125
+Texas,Dallam County,-0.01823128234830368
+Texas,Dallas County,0.0337896950268555
+Texas,Dawson County,-0.015614946121857487
+Texas,Deaf Smith County,0.01582071486233283
+Texas,Delta County,-0.04188361176115579
+Texas,Denton County,-0.00970750697898981
+Texas,DeWitt County,-0.01493217792854401
+Texas,Dickens County,-0.08925870926650664
+Texas,Dimmit County,0.14696422269465942
+Texas,Donley County,-0.03128290424125307
+Texas,Duval County,0.0634612529881399
+Texas,Eastland County,-0.039896721975166305
+Texas,Ector County,-0.009743254527797285
+Texas,Edwards County,-0.008172037748761352
+Texas,Ellis County,-0.090654496396946
+Texas,El Paso County,0.1393134306616729
+Texas,Erath County,-0.01933446368005992
+Texas,Falls County,0.015428394975436688
+Texas,Fannin County,-0.02078061588118446
+Texas,Fayette County,-0.026632177651407518
+Texas,Fisher County,-0.028030721270531023
+Texas,Floyd County,0.027155115107586003
+Texas,Foard County,-0.035135949978773284
+Texas,Fort Bend County,0.0296431636418696
+Texas,Franklin County,-0.041325890554266775
+Texas,Freestone County,-0.011792081760212236
+Texas,Frio County,0.10933314433768501
+Texas,Gaines County,-0.031190508364002667
+Texas,Galveston County,-0.012465209458946275
+Texas,Garza County,-0.04938249747161233
+Texas,Gillespie County,-0.040424039742991524
+Texas,Glasscock County,-0.05400195565362137
+Texas,Goliad County,-0.011649120244629663
+Texas,Gonzales County,0.006789948239471044
+Texas,Gray County,-0.06158121181514259
+Texas,Grayson County,-0.01666779297408949
+Texas,Gregg County,-0.0066877710572273985
+Texas,Grimes County,0.010631155045456142
+Texas,Guadalupe County,-0.00685158117933618
+Texas,Hale County,0.008408474489629725
+Texas,Hall County,-0.034764258914487256
+Texas,Hamilton County,-0.031201429472840714
+Texas,Hansford County,-0.03415236198527566
+Texas,Hardeman County,-0.022236146947797242
+Texas,Hardin County,-0.039977816655985376
+Texas,Harris County,0.016888707417526808
+Texas,Harrison County,-0.01091963938435786
+Texas,Hartley County,-0.0321655012269651
+Texas,Haskell County,-0.017429085551639634
+Texas,Hays County,-0.008501473796776203
+Texas,Hemphill County,-0.04651930623259565
+Texas,Henderson County,-0.027324959496543177
+Texas,Hidalgo County,0.138897170576837
+Texas,Hill County,-0.02399390542556029
+Texas,Hockley County,-0.022031895160463832
+Texas,Hood County,-0.04136971666297001
+Texas,Hopkins County,-0.02117609599469311
+Texas,Houston County,-0.00979763115598048
+Texas,Howard County,-0.016447195585477192
+Texas,Hudspeth County,0.055668942087267914
+Texas,Hunt County,-0.030440721026649353
+Texas,Hutchinson County,-0.05435193950536282
+Texas,Irion County,-0.023422559042423574
+Texas,Jack County,-0.053971301128096616
+Texas,Jackson County,-0.014848147754801644
+Texas,Jasper County,-0.008810136660693468
+Texas,Jeff Davis County,-0.0642534471019133
+Texas,Jefferson County,0.012589863989524094
+Texas,Jim Hogg County,0.035734307222517886
+Texas,Jim Wells County,-0.002805461210365401
+Texas,Johnson County,-0.07604689224700706
+Texas,Jones County,-0.020338070986239354
+Texas,Karnes County,2.1895924215586948e-05
+Texas,Kaufman County,-0.12057158207389718
+Texas,Kendall County,-0.035468816733202735
+Texas,Kenedy County,0.08836902566376736
+Texas,Kent County,-0.08423161990856304
+Texas,Kerr County,-0.034387245378867226
+Texas,Kimble County,-0.026980669976912786
+Texas,King County,-0.048657733921278756
+Texas,Kinney County,0.009454074341039786
+Texas,Kleberg County,0.0495138403116161
+Texas,Knox County,-0.004238818528251975
+Texas,Lamar County,-0.024254596436019182
+Texas,Lamb County,-0.025632521287764443
+Texas,Lampasas County,-0.03610128004126706
+Texas,La Salle County,0.0270643597713984
+Texas,Lavaca County,-0.0320495601322171
+Texas,Lee County,-0.01323070149047395
+Texas,Leon County,-0.03711683832439122
+Texas,Liberty County,-0.04160753896488928
+Texas,Limestone County,0.005439854907194619
+Texas,Lipscomb County,-0.05831961224216714
+Texas,Live Oak County,-0.0327884934137444
+Texas,Llano County,-0.05331862245929725
+Texas,Loving County,-0.12537746969567315
+Texas,Lubbock County,0.013249262259500127
+Texas,Lynn County,0.020911491646764924
+Texas,McCulloch County,-0.02911317751625414
+Texas,McLennan County,0.01484763235805911
+Texas,McMullen County,-0.005214960639010446
+Texas,Madison County,0.0017853543763339252
+Texas,Marion County,0.026729402013251746
+Texas,Martin County,-0.02922545494532197
+Texas,Mason County,-0.03040669201437235
+Texas,Matagorda County,-0.0002738142556532597
+Texas,Maverick County,0.219125648755007
+Texas,Medina County,-0.024635734053273406
+Texas,Menard County,-0.00428463203841839
+Texas,Midland County,-0.020777378690184534
+Texas,Milam County,-0.005973981858532207
+Texas,Mills County,-0.06818169724471518
+Texas,Mitchell County,-0.03478161964512688
+Texas,Montague County,-0.04993010244686075
+Texas,Montgomery County,-0.04399302446724179
+Texas,Moore County,0.012412262929875129
+Texas,Morris County,0.05698184225915531
+Texas,Motley County,-0.028533689016587982
+Texas,Nacogdoches County,0.01466174741725007
+Texas,Navarro County,0.0028378418743680855
+Texas,Newton County,-0.0030003420245198753
+Texas,Nolan County,-0.022629249264367546
+Texas,Nueces County,0.02533491326682269
+Texas,Ochiltree County,-0.03988382741001412
+Texas,Oldham County,-0.046025076753775596
+Texas,Orange County,-0.027223301482333595
+Texas,Palo Pinto County,-0.02998001300304526
+Texas,Panola County,-0.03111675074748549
+Texas,Parker County,-0.040380135696212405
+Texas,Parmer County,0.018971384436937078
+Texas,Pecos County,-0.0046895353574081255
+Texas,Polk County,-0.01661402592619393
+Texas,Potter County,-0.003180821712334081
+Texas,Presidio County,-0.028118484208725203
+Texas,Rains County,-0.04361140990672846
+Texas,Randall County,-0.04387944377791059
+Texas,Reagan County,-0.05103598276568949
+Texas,Real County,-0.058855292890494126
+Texas,Red River County,-0.006285659377356867
+Texas,Reeves County,0.0759148802423526
+Texas,Refugio County,0.007718473964319683
+Texas,Roberts County,-0.06674546325031877
+Texas,Robertson County,0.05694095027658236
+Texas,Rockwall County,-0.0285150597983449
+Texas,Runnels County,-0.02745726462206971
+Texas,Rusk County,-0.023262270720979805
+Texas,Sabine County,-0.0251882644989207
+Texas,San Augustine County,-0.004311127420811911
+Texas,San Jacinto County,-0.026656426256154553
+Texas,San Patricio County,0.012959411215503758
+Texas,San Saba County,-0.04687492439363711
+Texas,Schleicher County,-0.04498395277957018
+Texas,Scurry County,-0.033869894972996584
+Texas,Shackelford County,-0.07043705658991778
+Texas,Shelby County,-0.000519809871577126
+Texas,Sherman County,0.019262978276588905
+Texas,Smith County,-0.003747820028324078
+Texas,Somervell County,-0.026906381067194507
+Texas,Starr County,0.1494637125147463
+Texas,Stephens County,-0.053307556283535396
+Texas,Sterling County,-0.03600801740887455
+Texas,Stonewall County,-0.048442772206570284
+Texas,Sutton County,0.032281827783360806
+Texas,Swisher County,-0.006427781052401549
+Texas,Tarrant County,-0.007005556070356904
+Texas,Taylor County,-0.01542410941207667
+Texas,Terrell County,0.020787193690136985
+Texas,Terry County,0.02231787705311422
+Texas,Throckmorton County,-0.03240370836761225
+Texas,Titus County,0.039529078160822906
+Texas,Tom Green County,-0.0243318361691241
+Texas,Travis County,-0.00386210301771428
+Texas,Trinity County,-0.0037740850454052732
+Texas,Tyler County,-0.02861859950640061
+Texas,Upshur County,-0.034961715376789326
+Texas,Upton County,-0.027477793622751212
+Texas,Uvalde County,0.07056815799141378
+Texas,Val Verde County,0.1066865096836957
+Texas,Van Zandt County,-0.03367078088693226
+Texas,Victoria County,-0.013999377214023723
+Texas,Walker County,0.021792067755242783
+Texas,Waller County,-0.07707339880552155
+Texas,Ward County,-0.009497360716743841
+Texas,Washington County,-0.012644101136993657
+Texas,Webb County,0.1941382565775568
+Texas,Wharton County,0.026541602411273124
+Texas,Wheeler County,-0.0655137304565438
+Texas,Wichita County,-0.03112121864632761
+Texas,Wilbarger County,-0.021718413381938195
+Texas,Willacy County,0.09269998178695238
+Texas,Williamson County,-0.021863193339035802
+Texas,Wilson County,-0.0075555786916788326
+Texas,Winkler County,-0.011073039615778824
+Texas,Wise County,-0.04153356314427953
+Texas,Wood County,-0.045217762253452254
+Texas,Yoakum County,-0.017912750080394113
+Texas,Young County,-0.03531927900965953
+Texas,Zapata County,0.11055832256817719
+Texas,Zavala County,0.10961533211321187
+Utah,Beaver County,-0.07144063930559003
+Utah,Box Elder County,-0.0840928790705105
+Utah,Cache County,-0.08746425926632129
+Utah,Carbon County,-0.07542044417809352
+Utah,Daggett County,-0.06055051487188284
+Utah,Davis County,-0.08676611435092918
+Utah,Duchesne County,-0.08388901493473627
+Utah,Emery County,-0.06161257502870304
+Utah,Garfield County,-0.06806010221583009
+Utah,Grand County,-0.0473079485178918
+Utah,Iron County,-0.056817165373978684
+Utah,Juab County,-0.060201984541878695
+Utah,Kane County,-0.041492068140528526
+Utah,Millard County,-0.07756209156560784
+Utah,Morgan County,-0.09074638784542272
+Utah,Piute County,-0.05994592534932813
+Utah,Rich County,-0.08818720128608587
+Utah,Salt Lake County,-0.05228773676183231
+Utah,San Juan County,0.041331881986470115
+Utah,Sanpete County,-0.07059906689162149
+Utah,Sevier County,-0.07054647490745619
+Utah,Summit County,-0.017020387433402007
+Utah,Tooele County,-0.033711272467653486
+Utah,Uintah County,-0.08238191462171468
+Utah,Utah County,-0.073040991040981
+Utah,Wasatch County,-0.04811730156437327
+Utah,Washington County,-0.05447071271158127
+Utah,Wayne County,-0.07432274832102398
+Utah,Weber County,-0.05212493701655421
+Vermont,Addison County,-0.025376893892164964
+Vermont,Bennington County,-0.012393132127388212
+Vermont,Caledonia County,-0.03263289563114259
+Vermont,Chittenden County,-0.05151697488799972
+Vermont,Essex County,-0.012202614916435511
+Vermont,Franklin County,0.0003254769943736996
+Vermont,Grand Isle County,-0.045462343617550305
+Vermont,Lamoille County,-0.01095519695354008
+Vermont,Orange County,-0.021646255257549096
+Vermont,Orleans County,0.00014005878086469775
+Vermont,Rutland County,-0.008457638743271496
+Vermont,Washington County,-0.03334813245435081
+Vermont,Windham County,-0.013702563519628175
+Vermont,Windsor County,-0.027255334007466214
+Virginia,Accomack County,-0.02108976182859451
+Virginia,Albemarle County,-0.06648308643170181
+Virginia,Alleghany County,-0.020482379073410106
+Virginia,Amelia County,0.005655286700255058
+Virginia,Amherst County,-0.011278417293698995
+Virginia,Appomattox County,-0.012469558979072093
+Virginia,Arlington County,-0.01117424862893196
+Virginia,Augusta County,-0.0550228274464134
+Virginia,Bath County,0.002160005065519166
+Virginia,Bedford County,-0.03799116551256354
+Virginia,Bland County,-0.04462120306168377
+Virginia,Botetourt County,-0.05409470912672193
+Virginia,Brunswick County,0.004531924217757513
+Virginia,Buchanan County,-0.03006539916257539
+Virginia,Buckingham County,0.0424274364684917
+Virginia,Campbell County,-0.015379122984328475
+Virginia,Caroline County,-0.014054544369562397
+Virginia,Carroll County,-0.05478313050104894
+Virginia,Charles City County,0.02634892762058709
+Virginia,Charlotte County,0.023145908162105988
+Virginia,Chesterfield County,-0.08347404948278479
+Virginia,Clarke County,-0.02815726537671079
+Virginia,Craig County,-0.028189834633175537
+Virginia,Culpeper County,-0.009716780995396607
+Virginia,Cumberland County,0.012469368251781382
+Virginia,Dickenson County,-0.019415144822759245
+Virginia,Dinwiddie County,0.007254198194301897
+Virginia,Essex County,0.01111982725438529
+Virginia,Fairfax County,0.008251706035274309
+Virginia,Fauquier County,-0.01655333535007919
+Virginia,Floyd County,-0.030506232869171312
+Virginia,Fluvanna County,-0.044460726679799396
+Virginia,Franklin County,-0.02888235465369432
+Virginia,Frederick County,-0.05040113871689489
+Virginia,Giles County,-0.029732230092962164
+Virginia,Gloucester County,-0.03166304131264541
+Virginia,Goochland County,-0.06809841875423323
+Virginia,Grayson County,-0.0525518725802086
+Virginia,Greene County,-0.052151543415001195
+Virginia,Greensville County,0.0028389707519172053
+Virginia,Halifax County,-0.0006618610716113971
+Virginia,Hanover County,-0.07056259798648351
+Virginia,Henrico County,-0.05903677222955639
+Virginia,Henry County,-0.023156588090217367
+Virginia,Highland County,-0.056629788638630385
+Virginia,Isle of Wight County,-0.046265733163458805
+Virginia,James City County,-0.0742619515903172
+Virginia,King and Queen County,-0.012499742464634006
+Virginia,King George County,-0.024098928636835104
+Virginia,King William County,-0.0327174458541547
+Virginia,Lancaster County,-0.03619694360081271
+Virginia,Lee County,-0.031212573859767223
+Virginia,Loudoun County,0.027015983949303685
+Virginia,Louisa County,-0.02771579834407159
+Virginia,Lunenburg County,-0.01879775884030449
+Virginia,Madison County,-0.02843041683255898
+Virginia,Mathews County,-0.023410487722503093
+Virginia,Mecklenburg County,-0.004171535187899589
+Virginia,Middlesex County,-0.03792975668623361
+Virginia,Montgomery County,-0.037808110147046804
+Virginia,Nelson County,-0.037256360198838503
+Virginia,New Kent County,-0.08829678741084429
+Virginia,Northampton County,-0.016109668157842108
+Virginia,Northumberland County,-0.00659298241497791
+Virginia,Nottoway County,0.013959265554801398
+Virginia,Orange County,-0.02724745974259571
+Virginia,Page County,-0.025881956238466952
+Virginia,Patrick County,-0.03628373357743825
+Virginia,Pittsylvania County,-0.02738907604199914
+Virginia,Powhatan County,-0.06245475431020853
+Virginia,Prince Edward County,0.02168576126931329
+Virginia,Prince George County,-0.01949211296883921
+Virginia,Prince William County,0.030072917949255817
+Virginia,Pulaski County,-0.028184471103949005
+Virginia,Rappahannock County,-0.02519133914421509
+Virginia,Richmond County,-0.010138765380256487
+Virginia,Roanoke County,-0.05372190316543779
+Virginia,Rockbridge County,-0.0460146292790829
+Virginia,Rockingham County,-0.0940459746099942
+Virginia,Russell County,-0.020717639928479692
+Virginia,Scott County,-0.03448617647975322
+Virginia,Shenandoah County,-0.04435626455949043
+Virginia,Smyth County,-0.018707090476999644
+Virginia,Southampton County,0.014660937122721512
+Virginia,Spotsylvania County,-0.042517848002062694
+Virginia,Stafford County,-0.0355957861901078
+Virginia,Surry County,0.029352840487422205
+Virginia,Sussex County,0.014740943764104897
+Virginia,Tazewell County,-0.04325523836449768
+Virginia,Warren County,-0.03713711158828842
+Virginia,Washington County,-0.052262837478225854
+Virginia,Westmoreland County,0.00024878862417999914
+Virginia,Wise County,-0.0446837225135554
+Virginia,Wythe County,-0.034953425582547826
+Virginia,York County,-0.06499211825145781
+Virginia,Alexandria city,-0.011067999687785324
+Virginia,Bristol city,-0.0524960712667647
+Virginia,Buena Vista city,0.010127360237095762
+Virginia,Charlottesville city,-0.020099918100502434
+Virginia,Chesapeake city,-0.03394277000965701
+Virginia,Colonial Heights city,-0.06777647998359021
+Virginia,Covington city,0.035881497870687507
+Virginia,Danville city,-0.05016957148461321
+Virginia,Emporia city,-0.009962338277759608
+Virginia,Fairfax city,-0.01149948548879498
+Virginia,Falls Church city,-0.04119815678691602
+Virginia,Franklin city,-0.0324189232885089
+Virginia,Fredericksburg city,-0.029239417930905787
+Virginia,Galax city,-0.023509182618882574
+Virginia,Hampton city,-0.03744648726832367
+Virginia,Harrisonburg city,0.0037680780108448886
+Virginia,Hopewell city,-0.051331056891429805
+Virginia,Lexington city,-0.007180025749653596
+Virginia,Lynchburg city,0.04501434020889189
+Virginia,Manassas city,0.03280334475605509
+Virginia,Manassas Park city,0.07054162859417357
+Virginia,Martinsville city,-0.020369680719483613
+Virginia,Newport News city,-0.01935892141080109
+Virginia,Norfolk city,-0.019531144735861816
+Virginia,Norton city,-0.0274827877662438
+Virginia,Petersburg city,-0.02282904981618178
+Virginia,Poquoson city,-0.05360269399615969
+Virginia,Portsmouth city,-0.038626824499940926
+Virginia,Radford city,0.02491771356926749
+Virginia,Richmond city,-0.0432671490616518
+Virginia,Roanoke city,-0.038844352203097315
+Virginia,Salem city,-0.0620589475091369
+Virginia,Staunton city,-0.0951546288465139
+Virginia,Suffolk city,-0.0463163266427872
+Virginia,Virginia Beach city,-0.03282477562252881
+Virginia,Waynesboro city,-0.0543996856447022
+Virginia,Williamsburg city,-0.09471455553900388
+Virginia,Winchester city,-0.04336048642192521
+Washington,Adams County,0.01511063573302962
+Washington,Asotin County,-0.060790613704138186
+Washington,Benton County,-0.05156588463639741
+Washington,Chelan County,-0.04416980831071611
+Washington,Clallam County,-0.10541601448178359
+Washington,Clark County,-0.07938630837418739
+Washington,Columbia County,-0.061096426786768576
+Washington,Cowlitz County,-0.0351828801312295
+Washington,Douglas County,-0.031981743259397705
+Washington,Ferry County,-0.024571997999072615
+Washington,Franklin County,0.02150252407458031
+Washington,Garfield County,-0.05374786813759719
+Washington,Grant County,-0.02911161351747138
+Washington,Grays Harbor County,-0.06569286757691781
+Washington,Island County,-0.10615606240533429
+Washington,Jefferson County,-0.09918830402602968
+Washington,King County,-0.05012402486119766
+Washington,Kitsap County,-0.0888782102536747
+Washington,Kittitas County,-0.016435660145161693
+Washington,Klickitat County,-0.061424597984165094
+Washington,Lewis County,-0.05856549289309487
+Washington,Lincoln County,-0.04339531557963605
+Washington,Mason County,-0.07404244435391891
+Washington,Okanogan County,-0.04871487504275118
+Washington,Pacific County,-0.0586548517792987
+Washington,Pend Oreille County,-0.030913707216124298
+Washington,Pierce County,-0.056402864545992804
+Washington,San Juan County,-0.06900421513359462
+Washington,Skagit County,-0.07427484883837751
+Washington,Skamania County,-0.04388007711091331
+Washington,Snohomish County,-0.044164048364165986
+Washington,Spokane County,-0.0540175132570733
+Washington,Stevens County,-0.03993026752110951
+Washington,Thurston County,-0.07804656757256251
+Washington,Wahkiakum County,-0.07248821477243411
+Washington,Walla Walla County,-0.0664009165489882
+Washington,Whatcom County,-0.06986612965348601
+Washington,Whitman County,-0.04993502952622941
+Washington,Yakima County,0.006353043379527204
+West Virginia,Barbour County,-0.002925349120031784
+West Virginia,Berkeley County,-0.01475148446892921
+West Virginia,Boone County,-0.016309258484633438
+West Virginia,Braxton County,-0.01145612090705539
+West Virginia,Brooke County,-0.045664004560820814
+West Virginia,Cabell County,-0.021568181171908285
+West Virginia,Calhoun County,-0.01674727881095689
+West Virginia,Clay County,-0.043513271236421514
+West Virginia,Doddridge County,-0.03160146456362373
+West Virginia,Fayette County,-0.029282475340979774
+West Virginia,Gilmer County,-0.021235812379797492
+West Virginia,Grant County,-0.04471285561498223
+West Virginia,Greenbrier County,-0.03446896875696254
+West Virginia,Hampshire County,-0.038506384671279925
+West Virginia,Hancock County,-0.0280358907909945
+West Virginia,Hardy County,-0.03262501391748879
+West Virginia,Harrison County,-0.02733661253482922
+West Virginia,Jackson County,-0.008010973240275387
+West Virginia,Jefferson County,-0.007318387577296706
+West Virginia,Kanawha County,-0.03257071806118422
+West Virginia,Lewis County,-0.03673517116543462
+West Virginia,Lincoln County,0.015182903114662583
+West Virginia,Logan County,-0.022794939710572504
+West Virginia,McDowell County,-0.04139064559559419
+West Virginia,Marion County,-0.0348336936972079
+West Virginia,Marshall County,-0.05572078461596375
+West Virginia,Mason County,-0.012489838716885193
+West Virginia,Mercer County,-0.03140779241899211
+West Virginia,Mineral County,-0.032061352977572566
+West Virginia,Mingo County,-0.03571970012542797
+West Virginia,Monongalia County,-0.028899228362437003
+West Virginia,Monroe County,-0.0161761380377346
+West Virginia,Morgan County,-0.025974747272246523
+West Virginia,Nicholas County,-0.027950858606547835
+West Virginia,Ohio County,-0.057895827083638884
+West Virginia,Pendleton County,-0.010624454193370936
+West Virginia,Pleasants County,-0.05541380443622296
+West Virginia,Pocahontas County,-0.018527658100367217
+West Virginia,Preston County,-0.04123624540045295
+West Virginia,Putnam County,-0.023608875483691172
+West Virginia,Raleigh County,-0.02113146966311924
+West Virginia,Randolph County,-0.034452572423694205
+West Virginia,Ritchie County,-0.04567416282924314
+West Virginia,Roane County,-0.000840814109137944
+West Virginia,Summers County,-0.016717998276005397
+West Virginia,Taylor County,-0.045830372953947485
+West Virginia,Tucker County,-0.06618108050720872
+West Virginia,Tyler County,-0.04828720726606922
+West Virginia,Upshur County,-0.03196423400875675
+West Virginia,Wayne County,-0.02822250365025153
+West Virginia,Webster County,-0.025307166747086385
+West Virginia,Wetzel County,-0.023348655543369567
+West Virginia,Wirt County,-0.02619862881696139
+West Virginia,Wood County,-0.049800156338489776
+West Virginia,Wyoming County,-0.0514610130210848
+Wisconsin,Adams County,-0.058734731753613434
+Wisconsin,Ashland County,0.0021001843943325924
+Wisconsin,Barron County,-0.030392676674687202
+Wisconsin,Bayfield County,-0.03107231173004281
+Wisconsin,Brown County,-0.0571793239888561
+Wisconsin,Buffalo County,-0.01039823126332734
+Wisconsin,Burnett County,-0.03633882075613143
+Wisconsin,Calumet County,-0.05700210756507232
+Wisconsin,Chippewa County,-0.0346277083031136
+Wisconsin,Clark County,-0.03815363945743089
+Wisconsin,Columbia County,-0.0297422012503787
+Wisconsin,Crawford County,0.0008263013146601883
+Wisconsin,Dane County,-0.051102676987615225
+Wisconsin,Dodge County,-0.04100584018085002
+Wisconsin,Door County,-0.0681836079435848
+Wisconsin,Douglas County,-0.0206844926692141
+Wisconsin,Dunn County,-0.04062732189167512
+Wisconsin,Eau Claire County,-0.0585497471632493
+Wisconsin,Florence County,-0.022161658097008985
+Wisconsin,Fond du Lac County,-0.038210853916641696
+Wisconsin,Forest County,-0.036060151139060526
+Wisconsin,Grant County,-0.0013270421248695874
+Wisconsin,Green County,-0.031261603136616
+Wisconsin,Green Lake County,-0.05538774226922649
+Wisconsin,Iowa County,0.00035412685533900423
+Wisconsin,Iron County,-0.0237643655048162
+Wisconsin,Jackson County,-0.01619059003079132
+Wisconsin,Jefferson County,-0.048805722297324605
+Wisconsin,Juneau County,-0.03087866291155611
+Wisconsin,Kenosha County,-0.0292423191642832
+Wisconsin,Kewaunee County,-0.04950352836662608
+Wisconsin,La Crosse County,-0.019020463797909698
+Wisconsin,Lafayette County,0.00470496144660601
+Wisconsin,Langlade County,-0.03899232562265409
+Wisconsin,Lincoln County,-0.036330131672581006
+Wisconsin,Manitowoc County,-0.058779558324977915
+Wisconsin,Marathon County,-0.053767214119124496
+Wisconsin,Marinette County,-0.025979884328493574
+Wisconsin,Marquette County,-0.037464613871851515
+Wisconsin,Menominee County,-0.03279203385566504
+Wisconsin,Milwaukee County,-0.04709641953250571
+Wisconsin,Monroe County,-0.03564507439413023
+Wisconsin,Oconto County,-0.039721231008075175
+Wisconsin,Oneida County,-0.03185473495264271
+Wisconsin,Outagamie County,-0.057844478988333003
+Wisconsin,Ozaukee County,-0.0757623339096347
+Wisconsin,Pepin County,-0.03180105211662032
+Wisconsin,Pierce County,-0.02218060067233152
+Wisconsin,Polk County,-0.025572358574451615
+Wisconsin,Portage County,-0.0445480170942043
+Wisconsin,Price County,-0.02535710853093115
+Wisconsin,Racine County,-0.0392863769123273
+Wisconsin,Richland County,-0.026252693515242703
+Wisconsin,Rock County,-0.02177650981807891
+Wisconsin,Rusk County,-0.027265490683484106
+Wisconsin,St. Croix County,-0.02635073595468171
+Wisconsin,Sauk County,-0.026749776682362905
+Wisconsin,Sawyer County,-0.030741499324496324
+Wisconsin,Shawano County,-0.05300949775193203
+Wisconsin,Sheboygan County,-0.0559874604784274
+Wisconsin,Taylor County,-0.04283270732724531
+Wisconsin,Trempealeau County,-0.01182622193642141
+Wisconsin,Vernon County,-0.03020004866060151
+Wisconsin,Vilas County,-0.047972210668622395
+Wisconsin,Walworth County,-0.030135959441058208
+Wisconsin,Washburn County,-0.01554118656911574
+Wisconsin,Washington County,-0.07867498626389069
+Wisconsin,Waukesha County,-0.07086763233832222
+Wisconsin,Waupaca County,-0.0437928117304921
+Wisconsin,Waushara County,-0.04954461323897369
+Wisconsin,Winnebago County,-0.0526434847183821
+Wisconsin,Wood County,-0.053486011337924105
+Wyoming,Albany County,-0.0011511768331618003
+Wyoming,Big Horn County,-0.03410873737845094
+Wyoming,Campbell County,-0.0612562489810366
+Wyoming,Carbon County,-0.017344921706920424
+Wyoming,Converse County,-0.050392503607646966
+Wyoming,Crook County,-0.07514265771608458
+Wyoming,Fremont County,-0.04506921030172645
+Wyoming,Goshen County,-0.040018458978341276
+Wyoming,Hot Springs County,-0.036931594154068714
+Wyoming,Johnson County,-0.03086646060439896
+Wyoming,Laramie County,-0.017904940636290834
+Wyoming,Lincoln County,-0.05846281705798678
+Wyoming,Natrona County,-0.0497061448438883
+Wyoming,Niobrara County,0.013119789600883836
+Wyoming,Park County,-0.03011890130903233
+Wyoming,Platte County,-0.016869561080222695
+Wyoming,Sheridan County,-0.03448785435048801
+Wyoming,Sublette County,-0.06805580179481935
+Wyoming,Sweetwater County,-0.03497596418542542
+Wyoming,Teton County,-0.038018076306837345
+Wyoming,Uinta County,-0.051656882540510984
+Wyoming,Washakie County,-0.06415674107876052
+Wyoming,Weston County,-0.0657708652180124
