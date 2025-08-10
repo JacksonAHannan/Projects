@@ -1,0 +1,175 @@
+# Neural Network for Mushroom Classification
+from ucimlrepo import fetch_ucirepo
+import pandas as pd
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+import tensorflow as tf
+from sklearn.model_selection import train_test_split
+import numpy as np
+
+# Fetch dataset 
+def load_mushroom_dataset():
+	"""
+	Fetches the UCI Mushroom dataset and returns features, targets, metadata, and variable info.
+	Returns:
+		X (pd.DataFrame): Features
+		y (pd.DataFrame): Targets
+		metadata (dict): Dataset metadata
+		variables (dict): Variable information
+	"""
+	# Load the dataset from the local agaricus-lepiota.data file
+	column_names = [
+	    'class', 'cap-shape', 'cap-surface', 'cap-color', 'bruises', 'odor',
+	    'gill-attachment', 'gill-spacing', 'gill-size', 'gill-color',
+	    'stalk-shape', 'stalk-root', 'stalk-surface-above-ring',
+	    'stalk-surface-below-ring', 'stalk-color-above-ring',
+	    'stalk-color-below-ring', 'veil-type', 'veil-color', 'ring-number',
+	    'ring-type', 'spore-print-color', 'population', 'habitat'
+	]
+	data = pd.read_csv('/Users/jacksonhannan/Desktop/Python Projects/Mushroom ML Models Project/agaricus-lepiota.data', header=None, names=column_names)
+	X = data.iloc[:, 1:]
+	y = data.iloc[:, [0]]
+	metadata = {'source': 'agaricus-lepiota.data'}
+	variables = {'columns': column_names}
+	return X, y, metadata, variables
+
+# Function to encode all categorical and binary features in a DataFrame
+def encode_features(df):
+	"""
+	Encodes all categorical and binary features in the given DataFrame using label encoding.
+	Args:
+		df (pd.DataFrame): Input DataFrame with categorical/binary features.
+	Returns:
+		pd.DataFrame: Encoded DataFrame with all features numeric.
+	Note:
+		Each column is independently label-encoded. If you need to inverse-transform or use the same mapping later, store the encoders.
+	"""
+	df_encoded = df.copy()
+	for col in df_encoded.columns:
+		le = LabelEncoder()
+		df_encoded[col] = le.fit_transform(df_encoded[col].astype(str))
+	return df_encoded
+
+# Function to encode the target variable
+def encode_targets(df):
+	"""
+	Encodes the target column(s) in the given DataFrame using label encoding.
+	Args:
+		df (pd.DataFrame): Input DataFrame with target(s).
+	Returns:
+		np.ndarray: Encoded target values.
+	Note:
+		This function assumes a single target column and uses sklearn's LabelEncoder.
+	"""
+	le = LabelEncoder()
+	return le.fit_transform(df.iloc[:, 0])
+
+
+# Function to create and train the neural network
+def create_and_train_mushroom_nn(X_train, y_train, input_shape, epochs=100, batch_size=32):
+	"""
+	Creates and trains a neural network model for mushroom classification.
+	Args:
+		X_train (pd.DataFrame): Training features.
+		y_train (pd.Series): Training labels.
+		input_shape (int): Number of input features.
+		epochs (int): Number of training epochs.
+		batch_size (int): Batch size for training.
+	Returns:
+		tf.keras.Model: Trained neural network model.
+	"""
+	model = tf.keras.Sequential([
+		tf.keras.layers.Dense(32, activation='relu', input_shape=(input_shape,)),
+		tf.keras.layers.Dense(32, activation='relu'),
+		tf.keras.layers.Dense(1, activation='sigmoid') # Binary classification
+	])
+	model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
+	model.summary()
+	history = model.fit(X_train, y_train, epochs=epochs, batch_size=batch_size, validation_split=0.1, verbose=1)
+	return model, history
+
+# Function to plot training history
+def plot_training_history(history):
+	"""
+	Plots the training and validation accuracy and loss from the Keras history object.
+	Args:
+		history: Keras History object returned by model.fit().
+	"""
+	import matplotlib.pyplot as plt
+	acc = history.history.get('accuracy', [])
+	val_acc = history.history.get('val_accuracy', [])
+	loss = history.history.get('loss', [])
+	val_loss = history.history.get('val_loss', [])
+	epochs = range(1, len(acc) + 1)
+
+	plt.figure(figsize=(12, 5))
+	plt.subplot(1, 2, 1)
+	plt.plot(epochs, acc, 'b-', label='Training acc')
+	plt.plot(epochs, val_acc, 'r-', label='Validation acc')
+	plt.title('Training and validation accuracy')
+	plt.xlabel('Epochs')
+	plt.ylabel('Accuracy')
+	plt.legend()
+
+	plt.subplot(1, 2, 2)
+	plt.plot(epochs, loss, 'b-', label='Training loss')
+	plt.plot(epochs, val_loss, 'r-', label='Validation loss')
+	plt.title('Training and validation loss')
+	plt.xlabel('Epochs')
+	plt.ylabel('Loss')
+	plt.legend()
+
+	plt.tight_layout()
+	plt.show()
+
+# Function to predict from CSV file
+def predict_from_csv(trained_nn_model, csv_path, feature_columns):
+	"""
+	Loads a CSV file, encodes its features, and uses the trained model to make predictions.
+	Args:
+		model: Trained Keras model.
+		csv_path (str): Path to the CSV file.
+		feature_columns (list): List of feature column names used during training.
+	Returns:
+		np.ndarray: Model predictions (0 or 1).
+	"""
+	# Load CSV
+	df = pd.read_csv(csv_path)
+	# Ensure columns match training features
+	df = df[feature_columns]
+	# Encode features
+	df_encoded = encode_features(df)
+	# Predict
+	y_pred_prob = trained_nn_model.predict(df_encoded)
+	y_pred = (y_pred_prob > 0.5).astype(int)
+	return y_pred
+
+# Main execution:
+if __name__ == "__main__":
+	X, y, metadata, variables = load_mushroom_dataset()
+	print(metadata)
+	print(variables)
+	# Encode features and target
+	X_encoded = encode_features(X)
+	y_encoded = encode_targets(y)
+	print(X_encoded.head())
+	# Train/test split
+	X_train, X_test, y_train, y_test = train_test_split(X_encoded, y_encoded, test_size=0.2, random_state=42)
+	# Build and train model
+	input_shape = X_encoded.shape[1]
+	trained_nn_model, history = create_and_train_mushroom_nn(X_train, y_train, input_shape, epochs=10, batch_size=32)
+	plot_training_history(history)
+	# Predict
+	y_pred_prob = trained_nn_model.predict(X_test)
+	y_pred = (y_pred_prob > 0.5).astype(int)
+	# Classification report
+	print("\nClassification Report:")
+	print(classification_report(y_test, y_pred))
+	print("Confusion Matrix:")
+	print(confusion_matrix(y_test, y_pred))
+	print("Accuracy Score:")
+	print(accuracy_score(y_test, y_pred))
+
+	# Prediction of new data (uncomment to use)
+	# predictions = predict_from_csv(trained_nn_model, 'your_new_data.csv', X.columns.tolist())
+	# print(predictions)
